@@ -1,0 +1,6698 @@
+[
+    {
+        "ticker": "SPA",
+        "full_name": "1SPATIAL PLC"
+    },
+    {
+        "ticker": "III",
+        "full_name": "3I GROUP PLC"
+    },
+    {
+        "ticker": "IN",
+        "full_name": "3I INFRASTRUCTURE PLC"
+    },
+    {
+        "ticker": "",
+        "full_name": "450 PLC"
+    },
+    {
+        "ticker": "BB",
+        "full_name": "4BASEBIO PLC"
+    },
+    {
+        "ticker": "GBL",
+        "full_name": "4GLOBAL PLC"
+    },
+    {
+        "ticker": "FOUR",
+        "full_name": "4IMPRINT GROUP PLC"
+    },
+    {
+        "ticker": "M",
+        "full_name": "80 MILE PLC"
+    },
+    {
+        "ticker": "E",
+        "full_name": "88 ENERGY LIMITED"
+    },
+    {
+        "ticker": "ABDP",
+        "full_name": "AB DYNAMICS PLC"
+    },
+    {
+        "ticker": "AAIF",
+        "full_name": "ABERDEEN ASIAN INCOME FUND LIMITED"
+    },
+    {
+        "ticker": "AEI",
+        "full_name": "ABERDEEN EQUITY INCOME TRUST PLC"
+    },
+    {
+        "ticker": "ABDN",
+        "full_name": "ABERDEEN GROUP PLC"
+    },
+    {
+        "ticker": "AGVI",
+        "full_name": "ABERFORTH GEARED VALUE & INCOME TRUST PLC"
+    },
+    {
+        "ticker": "ASL",
+        "full_name": "ABERFORTH SMALLER COMPANIES TRUST PLC"
+    },
+    {
+        "ticker": "JT",
+        "full_name": "AB \"IGNITIS GRUPE\""
+    },
+    {
+        "ticker": "ABDX",
+        "full_name": "ABINGDON HEALTH PLC"
+    },
+    {
+        "ticker": "AAS",
+        "full_name": "ABRDN ASIA FOCUS PLC"
+    },
+    {
+        "ticker": "ADIG",
+        "full_name": "ABRDN DIVERSIFIED INCOME AND GROWTH PLC"
+    },
+    {
+        "ticker": "ASLI",
+        "full_name": "ABRDN EUROPEAN LOGISTICS INCOME PLC"
+    },
+    {
+        "ticker": "AREG",
+        "full_name": "ABRDN III ICAV"
+    },
+    {
+        "ticker": "ANII",
+        "full_name": "ABRDN NEW INDIA INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "API",
+        "full_name": "ABRDN PROPERTY INCOME TRUST LIMITED"
+    },
+    {
+        "ticker": "AUSC",
+        "full_name": "ABRDN UK SMALLER COMPANIES GROWTH TRUST PLC"
+    },
+    {
+        "ticker": "AC8",
+        "full_name": "ACCELER8 VENTURES PLC"
+    },
+    {
+        "ticker": "ACSO",
+        "full_name": "ACCESSO TECHNOLOGY GROUP PLC"
+    },
+    {
+        "ticker": "AXS",
+        "full_name": "ACCSYS TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "ACIA",
+        "full_name": "ACER INCORPORATED"
+    },
+    {
+        "ticker": "ACG",
+        "full_name": "ACG METALS LIMITED"
+    },
+    {
+        "ticker": "AIC",
+        "full_name": "ACHILLES INVESTMENT COMPANY LIMITED"
+    },
+    {
+        "ticker": "AEG",
+        "full_name": "ACTIVE ENERGY GROUP PLC"
+    },
+    {
+        "ticker": "AOM",
+        "full_name": "ACTIVEOPS PLC"
+    },
+    {
+        "ticker": "ACRM",
+        "full_name": "ACUITY RM GROUP PLC"
+    },
+    {
+        "ticker": "ZAIM",
+        "full_name": "ADALAN VENTURES PLC"
+    },
+    {
+        "ticker": "ADME",
+        "full_name": "ADM ENERGY PLC"
+    },
+    {
+        "ticker": "ADM",
+        "full_name": "ADMIRAL GROUP PLC"
+    },
+    {
+        "ticker": "ADT1",
+        "full_name": "ADRIATIC METALS PLC"
+    },
+    {
+        "ticker": "ADVT",
+        "full_name": "ADVANCEDADVT LIMITED"
+    },
+    {
+        "ticker": "AMS",
+        "full_name": "ADVANCED MEDICAL SOLUTIONS GROUP PLC"
+    },
+    {
+        "ticker": "FZ",
+        "full_name": "AECI LD"
+    },
+    {
+        "ticker": "AEO",
+        "full_name": "AEOREMA COMMUNICATIONS PLC"
+    },
+    {
+        "ticker": "AEWU",
+        "full_name": "AEW UK REIT PLC"
+    },
+    {
+        "ticker": "AFRK",
+        "full_name": "AFARAK GROUP SE"
+    },
+    {
+        "ticker": "AFC",
+        "full_name": "AFC ENERGY PLC"
+    },
+    {
+        "ticker": "AET",
+        "full_name": "AFENTRA PLC"
+    },
+    {
+        "ticker": "AFRN",
+        "full_name": "AFERIAN PLC"
+    },
+    {
+        "ticker": "AFP",
+        "full_name": "AFRICAN PIONEER PLC"
+    },
+    {
+        "ticker": "AOF",
+        "full_name": "AFRICA OPPORTUNITY FUND LIMITED"
+    },
+    {
+        "ticker": "ANIC",
+        "full_name": "AGRONOMICS LIMITED"
+    },
+    {
+        "ticker": "AIBG",
+        "full_name": "AIB GROUP PLC"
+    },
+    {
+        "ticker": "AIQ",
+        "full_name": "AIQ LIMITED"
+    },
+    {
+        "ticker": "AA80",
+        "full_name": "AIR ASTANA JOINT STOCK COMPANY"
+    },
+    {
+        "ticker": "AIRC",
+        "full_name": "AIR CHINA LD"
+    },
+    {
+        "ticker": "AIEA",
+        "full_name": "AIREA PLC"
+    },
+    {
+        "ticker": "AAF",
+        "full_name": "AIRTEL AFRICA PLC"
+    },
+    {
+        "ticker": "AJB",
+        "full_name": "AJ BELL PLC"
+    },
+    {
+        "ticker": "ALBA",
+        "full_name": "ALBA MINERAL RESOURCES PLC"
+    },
+    {
+        "ticker": "CRWC",
+        "full_name": "ALBION CROWN VCT PLC"
+    },
+    {
+        "ticker": "AAEV",
+        "full_name": "ALBION ENTERPRISE VCT PLC"
+    },
+    {
+        "ticker": "AATG",
+        "full_name": "ALBION TECHNOLOGY & GENERAL VCT PLC"
+    },
+    {
+        "ticker": "ALFA",
+        "full_name": "ALFA FINANCIAL SOFTWARE HOLDINGS PLC"
+    },
+    {
+        "ticker": "UFO",
+        "full_name": "ALIEN METALS LIMITED"
+    },
+    {
+        "ticker": "ALNA",
+        "full_name": "ALINA HOLDINGS PLC"
+    },
+    {
+        "ticker": "ALK",
+        "full_name": "ALKEMY CAPITAL INVESTMENTS PLC"
+    },
+    {
+        "ticker": "AGY",
+        "full_name": "ALLERGY THERAPEUTICS PLC"
+    },
+    {
+        "ticker": "ALW",
+        "full_name": "ALLIANCE WITAN PLC"
+    },
+    {
+        "ticker": "ATT",
+        "full_name": "ALLIANZ TECHNOLOGY TRUST PLC"
+    },
+    {
+        "ticker": "ALPH",
+        "full_name": "ALPHA GROUP INTERNATIONAL PLC"
+    },
+    {
+        "ticker": "AAAG",
+        "full_name": "ALPHA UCITS SICAV"
+    },
+    {
+        "ticker": "AWE",
+        "full_name": "ALPHAWAVE IP GROUP PLC"
+    },
+    {
+        "ticker": "AIRE",
+        "full_name": "ALTERNATIVE INCOME REIT PLC"
+    },
+    {
+        "ticker": "ALF",
+        "full_name": "ALTERNATIVE LIQUIDITY FUND LIMITED"
+    },
+    {
+        "ticker": "ALT",
+        "full_name": "ALTITUDE GROUP PLC"
+    },
+    {
+        "ticker": "REE",
+        "full_name": "ALTONA RARE EARTHS PLC"
+    },
+    {
+        "ticker": "ALTR",
+        "full_name": "ALT RESOURCES PLC"
+    },
+    {
+        "ticker": "ALTN",
+        "full_name": "ALTYNGOLD PLC"
+    },
+    {
+        "ticker": "ALU",
+        "full_name": "ALUMASC GROUP PLC"
+    },
+    {
+        "ticker": "QZ",
+        "full_name": "ALUMINIUM BAHRAIN B.S.C."
+    },
+    {
+        "ticker": "DISH",
+        "full_name": "AMALA FOODS PLC"
+    },
+    {
+        "ticker": "AMRQ",
+        "full_name": "AMAROQ MINERALS LTD."
+    },
+    {
+        "ticker": "AMCO",
+        "full_name": "AMCOMRI GROUP PLC"
+    },
+    {
+        "ticker": "AA4",
+        "full_name": "AMEDEO AIR FOUR PLUS LIMITED"
+    },
+    {
+        "ticker": "SD",
+        "full_name": "AMER GROUP HOLDING COMPANY S.A.E"
+    },
+    {
+        "ticker": "AVCG",
+        "full_name": "AMERICAN CENTURY ICAV"
+    },
+    {
+        "ticker": "AMIF",
+        "full_name": "AMICORP FS (UK) PLC"
+    },
+    {
+        "ticker": "AMGO",
+        "full_name": "AMIGO HOLDINGS PLC"
+    },
+    {
+        "ticker": "AEX",
+        "full_name": "AMINEX PLC"
+    },
+    {
+        "ticker": "ANRJ",
+        "full_name": "AMUNDI ETF"
+    },
+    {
+        "ticker": "CLMT",
+        "full_name": "AMUNDI ETF ICAV"
+    },
+    {
+        "ticker": "D",
+        "full_name": "AMUNDI INDEX SOLUTIONS"
+    },
+    {
+        "ticker": "ANAA",
+        "full_name": "ANA HOLDINGS INC."
+    },
+    {
+        "ticker": "ATM",
+        "full_name": "ANDRADA MINING LIMITED"
+    },
+    {
+        "ticker": "ASY",
+        "full_name": "ANDREWS SYKES GROUP PLC"
+    },
+    {
+        "ticker": "AMOI",
+        "full_name": "ANEMOI INTERNATIONAL LTD"
+    },
+    {
+        "ticker": "ANX",
+        "full_name": "ANEXO GROUP PLC"
+    },
+    {
+        "ticker": "AGL",
+        "full_name": "ANGLE PLC"
+    },
+    {
+        "ticker": "AYM",
+        "full_name": "ANGLESEY MINING PLC"
+    },
+    {
+        "ticker": "ANG",
+        "full_name": "ANGLING DIRECT PLC"
+    },
+    {
+        "ticker": "AAL",
+        "full_name": "ANGLO AMERICAN PLC"
+    },
+    {
+        "ticker": "AAZ",
+        "full_name": "ANGLO ASIAN MINING PLC"
+    },
+    {
+        "ticker": "AEP",
+        "full_name": "ANGLO-EASTERN PLANTATIONS PLC"
+    },
+    {
+        "ticker": "ANGS",
+        "full_name": "ANGUS ENERGY PLC"
+    },
+    {
+        "ticker": "ANCR",
+        "full_name": "ANIMALCARE GROUP PLC"
+    },
+    {
+        "ticker": "ANP",
+        "full_name": "ANPARIO PLC"
+    },
+    {
+        "ticker": "GD",
+        "full_name": "ANTOFAGASTA PLC"
+    },
+    {
+        "ticker": "AOTI",
+        "full_name": "AOTI, INC."
+    },
+    {
+        "ticker": "AO.",
+        "full_name": "AO WORLD PLC"
+    },
+    {
+        "ticker": "APAX",
+        "full_name": "APAX GLOBAL ALPHA LIMITED"
+    },
+    {
+        "ticker": "APN",
+        "full_name": "APPLIED NUTRITION PLC"
+    },
+    {
+        "ticker": "APTA",
+        "full_name": "APTAMER GROUP PLC"
+    },
+    {
+        "ticker": "APTD",
+        "full_name": "APTITUDE SOFTWARE GROUP PLC"
+    },
+    {
+        "ticker": "AEEE",
+        "full_name": "AQUILA ENERGY EFFICIENCY TRUST PLC"
+    },
+    {
+        "ticker": "AERI",
+        "full_name": "AQUILA EUROPEAN RENEWABLES PLC"
+    },
+    {
+        "ticker": "AQX",
+        "full_name": "AQUIS EXCHANGE PLC"
+    },
+    {
+        "ticker": "ARBB",
+        "full_name": "ARBUTHNOT BANKING GROUP PLC"
+    },
+    {
+        "ticker": "ARCM",
+        "full_name": "ARC MINERALS LIMITED"
+    },
+    {
+        "ticker": "ARC",
+        "full_name": "ARCONTECH GROUP PLC"
+    },
+    {
+        "ticker": "AREC",
+        "full_name": "ARECOR THERAPEUTICS PLC"
+    },
+    {
+        "ticker": "AGFX",
+        "full_name": "ARGENTEX GROUP PLC"
+    },
+    {
+        "ticker": "ARB",
+        "full_name": "ARGO BLOCKCHAIN PLC"
+    },
+    {
+        "ticker": "AAU",
+        "full_name": "ARIANA RESOURCES PLC"
+    },
+    {
+        "ticker": "ARCG",
+        "full_name": "ARK INVEST UCITS ICAV"
+    },
+    {
+        "ticker": "ARK",
+        "full_name": "ARKLE RESOURCES PLC"
+    },
+    {
+        "ticker": "AXL",
+        "full_name": "ARROW EXPLORATION CORP."
+    },
+    {
+        "ticker": "ARV",
+        "full_name": "ARTEMIS RESOURCES LIMITED"
+    },
+    {
+        "ticker": "AFL",
+        "full_name": "ARTEMIS UK FUTURE LEADERS PLC"
+    },
+    {
+        "ticker": "ASAI",
+        "full_name": "ASA INTERNATIONAL GROUP PLC"
+    },
+    {
+        "ticker": "AST",
+        "full_name": "ASCENT RESOURCES PLC"
+    },
+    {
+        "ticker": "ASPL",
+        "full_name": "ASEANA PROPERTIES LIMITED"
+    },
+    {
+        "ticker": "ASHI",
+        "full_name": "ASHINGTON INNOVATION PLC"
+    },
+    {
+        "ticker": "ASHM",
+        "full_name": "ASHMORE GROUP PLC"
+    },
+    {
+        "ticker": "AIE",
+        "full_name": "ASHOKA INDIA EQUITY INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "AWEM",
+        "full_name": "ASHOKA WHITEOAK EMERGING MARKETS TRUST PLC"
+    },
+    {
+        "ticker": "AHT",
+        "full_name": "ASHTEAD GROUP PLC"
+    },
+    {
+        "ticker": "AT.",
+        "full_name": "ASHTEAD TECHNOLOGY HOLDINGS PLC"
+    },
+    {
+        "ticker": "ARS",
+        "full_name": "ASIAMET RESOURCES LIMITED"
+    },
+    {
+        "ticker": "ASIA",
+        "full_name": "ASIA STRATEGIC HOLDINGS LIMITED"
+    },
+    {
+        "ticker": "ASC",
+        "full_name": "ASOS PLC"
+    },
+    {
+        "ticker": "ASBE",
+        "full_name": "ASSOCIATED BRITISH ENGINEERING PLC"
+    },
+    {
+        "ticker": "ABF",
+        "full_name": "ASSOCIATED BRITISH FOODS PLC"
+    },
+    {
+        "ticker": "AGR",
+        "full_name": "ASSURA PLC"
+    },
+    {
+        "ticker": "AML",
+        "full_name": "ASTON MARTIN LAGONDA GLOBAL HOLDINGS PLC"
+    },
+    {
+        "ticker": "AZN",
+        "full_name": "ASTRAZENECA PLC"
+    },
+    {
+        "ticker": "ATYM",
+        "full_name": "ATALAYA MINING COPPER, S.A."
+    },
+    {
+        "ticker": "ATN",
+        "full_name": "ATERIAN PLC"
+    },
+    {
+        "ticker": "ATY",
+        "full_name": "ATHELNEY TRUST PLC"
+    },
+    {
+        "ticker": "ALL",
+        "full_name": "ATLANTIC LITHIUM LIMITED"
+    },
+    {
+        "ticker": "AMG",
+        "full_name": "ATLAS METALS GROUP PLC"
+    },
+    {
+        "ticker": "ATOM",
+        "full_name": "ATOME PLC"
+    },
+    {
+        "ticker": "ATG",
+        "full_name": "AUCTION TECHNOLOGY GROUP PLC"
+    },
+    {
+        "ticker": "BOOM",
+        "full_name": "AUDIOBOOM GROUP PLC"
+    },
+    {
+        "ticker": "AUGM",
+        "full_name": "AUGMENTUM FINTECH PLC"
+    },
+    {
+        "ticker": "AURA",
+        "full_name": "AURA ENERGY LIMITED"
+    },
+    {
+        "ticker": "ARA",
+        "full_name": "AURA RENEWABLE ACQUISITIONS PLC"
+    },
+    {
+        "ticker": "ARR",
+        "full_name": "AURORA UK ALPHA PLC"
+    },
+    {
+        "ticker": "AURR",
+        "full_name": "AURRIGO INTERNATIONAL PLC"
+    },
+    {
+        "ticker": "AUTG",
+        "full_name": "AUTINS GROUP PLC"
+    },
+    {
+        "ticker": "AUTO",
+        "full_name": "AUTO TRADER GROUP PLC"
+    },
+    {
+        "ticker": "AVCT",
+        "full_name": "AVACTA GROUP PLC"
+    },
+    {
+        "ticker": "AVAP",
+        "full_name": "AVATION PLC"
+    },
+    {
+        "ticker": "AGT",
+        "full_name": "AVI GLOBAL TRUST PLC"
+    },
+    {
+        "ticker": "AJOT",
+        "full_name": "AVI JAPAN OPPORTUNITY TRUST PLC"
+    },
+    {
+        "ticker": "AVG",
+        "full_name": "AVINGTRANS PLC"
+    },
+    {
+        "ticker": "AV.",
+        "full_name": "AVIVA PLC"
+    },
+    {
+        "ticker": "AVON",
+        "full_name": "AVON TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "AXB",
+        "full_name": "AXIS BANK LIMITED"
+    },
+    {
+        "ticker": "B90",
+        "full_name": "B90 HOLDINGS PLC"
+    },
+    {
+        "ticker": "BAB",
+        "full_name": "BABCOCK INTERNATIONAL GROUP PLC"
+    },
+    {
+        "ticker": "BA.",
+        "full_name": "BAE SYSTEMS PLC"
+    },
+    {
+        "ticker": "BGCG",
+        "full_name": "BAILLIE GIFFORD CHINA GROWTH TRUST PLC"
+    },
+    {
+        "ticker": "BGEU",
+        "full_name": "BAILLIE GIFFORD EUROPEAN GROWTH TRUST PLC"
+    },
+    {
+        "ticker": "BGFD",
+        "full_name": "BAILLIE GIFFORD JAPAN TRUST PLC"
+    },
+    {
+        "ticker": "BGS",
+        "full_name": "BAILLIE GIFFORD SHIN NIPPON PLC"
+    },
+    {
+        "ticker": "BGUK",
+        "full_name": "BAILLIE GIFFORD UK GROWTH TRUST PLC"
+    },
+    {
+        "ticker": "USA",
+        "full_name": "BAILLIE GIFFORD US GROWTH TRUST PLC"
+    },
+    {
+        "ticker": "BSRT",
+        "full_name": "BAKER STEEL RESOURCES TRUST LIMITED"
+    },
+    {
+        "ticker": "BAKK",
+        "full_name": "BAKKAVOR GROUP PLC"
+    },
+    {
+        "ticker": "BBY",
+        "full_name": "BALFOUR BEATTY PLC"
+    },
+    {
+        "ticker": "BCG",
+        "full_name": "BALTIC CLASSIFIEDS GROUP PLC"
+    },
+    {
+        "ticker": "BVA",
+        "full_name": "BANCO BILBAO VIZCAYA ARGENTARIA S.A."
+    },
+    {
+        "ticker": "BNC",
+        "full_name": "BANCO SANTANDER S.A."
+    },
+    {
+        "ticker": "BGO",
+        "full_name": "BANGO PLC"
+    },
+    {
+        "ticker": "BNKR",
+        "full_name": "BANKERS INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "BKM",
+        "full_name": "BANKMUSCAT (S.A.O.G.)"
+    },
+    {
+        "ticker": "BOAA",
+        "full_name": "BANK OF AFRICA"
+    },
+    {
+        "ticker": "BIRG",
+        "full_name": "BANK OF IRELAND GROUP PLC"
+    },
+    {
+        "ticker": "BARC",
+        "full_name": "BARCLAYS PLC"
+    },
+    {
+        "ticker": "BEMO",
+        "full_name": "BARINGS EMERGING EMEA OPPORTUNITIES PLC"
+    },
+    {
+        "ticker": "BMD",
+        "full_name": "BARONSMEAD SECOND VENTURE TRUST PLC"
+    },
+    {
+        "ticker": "BVT",
+        "full_name": "BARONSMEAD VENTURE TRUST PLC"
+    },
+    {
+        "ticker": "BAG",
+        "full_name": "BARR (A.G.) PLC"
+    },
+    {
+        "ticker": "BTRW",
+        "full_name": "BARRATT REDROW PLC"
+    },
+    {
+        "ticker": "BVC",
+        "full_name": "BATM ADVANCED COMMUNICATIONS LD"
+    },
+    {
+        "ticker": "BAY",
+        "full_name": "BAY CAPITAL PLC"
+    },
+    {
+        "ticker": "BCE",
+        "full_name": "BEACON ENERGY PLC"
+    },
+    {
+        "ticker": "BRS",
+        "full_name": "BEACON RISE HOLDINGS PLC"
+    },
+    {
+        "ticker": "BEZ",
+        "full_name": "BEAZLEY PLC"
+    },
+    {
+        "ticker": "BKS",
+        "full_name": "BEEKS FINANCIAL CLOUD GROUP PLC"
+    },
+    {
+        "ticker": "BEG",
+        "full_name": "BEGBIES TRAYNOR GROUP PLC"
+    },
+    {
+        "ticker": "BBH",
+        "full_name": "BELLEVUE HEALTHCARE TRUST PLC"
+    },
+    {
+        "ticker": "BELL",
+        "full_name": "BELLUSCURA PLC"
+    },
+    {
+        "ticker": "BWY",
+        "full_name": "BELLWAY PLC"
+    },
+    {
+        "ticker": "BMK",
+        "full_name": "BENCHMARK HOLDINGS PLC"
+    },
+    {
+        "ticker": "BEM",
+        "full_name": "BEOWULF MINING PLC"
+    },
+    {
+        "ticker": "BKY",
+        "full_name": "BERKELEY ENERGIA LIMITED"
+    },
+    {
+        "ticker": "BKG",
+        "full_name": "BERKELEY GROUP HOLDINGS (THE) PLC"
+    },
+    {
+        "ticker": "BXP",
+        "full_name": "BEXIMCO PHARMACEUTICALS LIMITED"
+    },
+    {
+        "ticker": "BZT",
+        "full_name": "BEZANT RESOURCES PLC"
+    },
+    {
+        "ticker": "BHMG",
+        "full_name": "BH MACRO LIMITED"
+    },
+    {
+        "ticker": "BHP",
+        "full_name": "BHP GROUP LIMITED"
+    },
+    {
+        "ticker": "BBB",
+        "full_name": "BIGBLU BROADBAND PLC"
+    },
+    {
+        "ticker": "BIG",
+        "full_name": "BIG TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "BYG",
+        "full_name": "BIG YELLOW GROUP PLC"
+    },
+    {
+        "ticker": "BILN",
+        "full_name": "BILLINGTON HOLDINGS PLC"
+    },
+    {
+        "ticker": "BPCP",
+        "full_name": "BIOPHARMA CREDIT PLC"
+    },
+    {
+        "ticker": "BIOG",
+        "full_name": "BIOTECH GROWTH TRUST (THE) PLC"
+    },
+    {
+        "ticker": "BVXP",
+        "full_name": "BIOVENTIX PLC"
+    },
+    {
+        "ticker": "BISI",
+        "full_name": "BISICHI PLC"
+    },
+    {
+        "ticker": "BIRD",
+        "full_name": "BLACKBIRD PLC"
+    },
+    {
+        "ticker": "BFSP",
+        "full_name": "BLACKFINCH SPRING VCT PLC"
+    },
+    {
+        "ticker": "BRAI",
+        "full_name": "BLACKROCK AMERICAN INCOME TRUST PLC"
+    },
+    {
+        "ticker": "BERI",
+        "full_name": "BLACKROCK ENERGY AND RESOURCES INCOME TRUST PLC"
+    },
+    {
+        "ticker": "BRFI",
+        "full_name": "BLACKROCK FRONTIERS INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "BRGE",
+        "full_name": "BLACKROCK GREATER EUROPE INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "BRIG",
+        "full_name": "BLACKROCK INCOME AND GROWTH INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "BRLA",
+        "full_name": "BLACKROCK LATIN AMERICAN INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "BRSC",
+        "full_name": "BLACKROCK SMALLER CO TRUST PLC"
+    },
+    {
+        "ticker": "THRG",
+        "full_name": "BLACKROCK THROGMORTON TRUST PLC"
+    },
+    {
+        "ticker": "BRWM",
+        "full_name": "BLACKROCK WORLD MINING TRUST PLC"
+    },
+    {
+        "ticker": "BRES",
+        "full_name": "BLENCOWE RESOURCES PLC"
+    },
+    {
+        "ticker": "BLOE",
+        "full_name": "BLOCK ENERGY PLC"
+    },
+    {
+        "ticker": "BMY",
+        "full_name": "BLOOMSBURY PUBLISHING PLC"
+    },
+    {
+        "ticker": "BMV",
+        "full_name": "BLUEBIRD MINING VENTURES LTD"
+    },
+    {
+        "ticker": "BSIF",
+        "full_name": "BLUEFIELD SOLAR INCOME FUND LIMITED"
+    },
+    {
+        "ticker": "BPFU",
+        "full_name": "BLUE PLANET FINANCIALS GROWTH AND INCOME INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "BLU",
+        "full_name": "BLUE STAR CAPITAL PLC"
+    },
+    {
+        "ticker": "BME",
+        "full_name": "B&M EUROPEAN VALUE RETAIL S.A."
+    },
+    {
+        "ticker": "ENGU",
+        "full_name": "BNP PARIBAS EASY ICAV"
+    },
+    {
+        "ticker": "BOY",
+        "full_name": "BODYCOTE PLC"
+    },
+    {
+        "ticker": "BOKU",
+        "full_name": "BOKU, INC."
+    },
+    {
+        "ticker": "DEBS",
+        "full_name": "BOOHOO GROUP PLC"
+    },
+    {
+        "ticker": "BD82",
+        "full_name": "BOOT (HENRY) PLC"
+    },
+    {
+        "ticker": "BOR",
+        "full_name": "BORDERS & SOUTHERN PETROLEUM PLC"
+    },
+    {
+        "ticker": "BIH",
+        "full_name": "BOSTON INTERNATIONAL HOLDINGS PLC"
+    },
+    {
+        "ticker": "BOD",
+        "full_name": "BOTSWANA DIAMONDS PLC"
+    },
+    {
+        "ticker": "BPM",
+        "full_name": "B.P. MARSH & PARTNERS PLC"
+    },
+    {
+        "ticker": "BP.",
+        "full_name": "BP PLC"
+    },
+    {
+        "ticker": "BHL",
+        "full_name": "BRADDA HEAD LITHIUM LIMITED"
+    },
+    {
+        "ticker": "BMS",
+        "full_name": "BRAEMAR PLC"
+    },
+    {
+        "ticker": "BMT",
+        "full_name": "BRAIME GROUP PLC"
+    },
+    {
+        "ticker": "BBSN",
+        "full_name": "BRAVE BISON GROUP PLC"
+    },
+    {
+        "ticker": "BRH",
+        "full_name": "BRAVEHEART INVESTMENT GROUP PLC"
+    },
+    {
+        "ticker": "BREE",
+        "full_name": "BREEDON GROUP PLC"
+    },
+    {
+        "ticker": "BRCK",
+        "full_name": "BRICKABILITY GROUP PLC"
+    },
+    {
+        "ticker": "BPT",
+        "full_name": "BRIDGEPOINT GROUP PLC"
+    },
+    {
+        "ticker": "BWRA",
+        "full_name": "BRISTOL WATER PLC"
+    },
+    {
+        "ticker": "BAF",
+        "full_name": "BRITISH & AMERICAN INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "BATS",
+        "full_name": "BRITISH AMERICAN TOBACCO PLC"
+    },
+    {
+        "ticker": "BLND",
+        "full_name": "BRITISH LAND COMPANY PLC"
+    },
+    {
+        "ticker": "BSC",
+        "full_name": "BRITISH SMALLER COMPANIES VCT2 PLC"
+    },
+    {
+        "ticker": "BSV",
+        "full_name": "BRITISH SMALLER COMPANIES VCT PLC"
+    },
+    {
+        "ticker": "BRK",
+        "full_name": "BROOKS MACDONALD GROUP PLC"
+    },
+    {
+        "ticker": "BASC",
+        "full_name": "BROWN ADVISORY US SMALLER COMPANIES PLC"
+    },
+    {
+        "ticker": "GL",
+        "full_name": "BRUNNER INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "BSFA",
+        "full_name": "BSF ENTERPRISE PLC"
+    },
+    {
+        "ticker": "BT.A",
+        "full_name": "BT GROUP PLC"
+    },
+    {
+        "ticker": "BUCE",
+        "full_name": "BUCCANEER ENERGY PLC"
+    },
+    {
+        "ticker": "BUC",
+        "full_name": "BUILT CYBERNETICS PLC"
+    },
+    {
+        "ticker": "BNZL",
+        "full_name": "BUNZL PLC"
+    },
+    {
+        "ticker": "BRBY",
+        "full_name": "BURBERRY GROUP PLC"
+    },
+    {
+        "ticker": "BUR",
+        "full_name": "BURFORD CAPITAL LIMITED"
+    },
+    {
+        "ticker": "BYIT",
+        "full_name": "BYTES TECHNOLOGY GROUP PLC"
+    },
+    {
+        "ticker": "CABP",
+        "full_name": "CAB PAYMENTS HOLDINGS PLC"
+    },
+    {
+        "ticker": "KDNC",
+        "full_name": "CADENCE MINERALS PLC"
+    },
+    {
+        "ticker": "CAD",
+        "full_name": "CADOGAN ENERGY SOLUTIONS PLC"
+    },
+    {
+        "ticker": "GL",
+        "full_name": "CAFFYNS PLC"
+    },
+    {
+        "ticker": "CRN",
+        "full_name": "CAIRN HOMES PLC"
+    },
+    {
+        "ticker": "CBOX",
+        "full_name": "CAKE BOX HOLDINGS PLC"
+    },
+    {
+        "ticker": "CLC",
+        "full_name": "CALCULUS VCT PLC"
+    },
+    {
+        "ticker": "CLDN",
+        "full_name": "CALEDONIA INVESTMENTS PLC"
+    },
+    {
+        "ticker": "CMCL",
+        "full_name": "CALEDONIA MINING CORPORATION PLC"
+    },
+    {
+        "ticker": "CHP",
+        "full_name": "CALEDONIAN HOLDINGS PLC"
+    },
+    {
+        "ticker": "CLX",
+        "full_name": "CALNEX SOLUTIONS PLC"
+    },
+    {
+        "ticker": "COG",
+        "full_name": "CAMBRIDGE COGNITION HOLDINGS PLC"
+    },
+    {
+        "ticker": "CNSL",
+        "full_name": "CAMBRIDGE NUTRITIONAL SCIENCES PLC"
+    },
+    {
+        "ticker": "CAM",
+        "full_name": "CAMELLIA PLC"
+    },
+    {
+        "ticker": "CGI",
+        "full_name": "CANADIAN GENERAL INVESTMENTS, LD"
+    },
+    {
+        "ticker": "COPL",
+        "full_name": "CANADIAN OVERSEAS PETROLEUM LIMITED"
+    },
+    {
+        "ticker": "CAN",
+        "full_name": "CANAL+ S.A"
+    },
+    {
+        "ticker": "CPAI",
+        "full_name": "CAPAI PLC"
+    },
+    {
+        "ticker": "CGT",
+        "full_name": "CAPITAL GEARING TRUST PLC"
+    },
+    {
+        "ticker": "CAPD",
+        "full_name": "CAPITAL LIMITED"
+    },
+    {
+        "ticker": "CMET",
+        "full_name": "CAPITAL METALS PLC"
+    },
+    {
+        "ticker": "CPI",
+        "full_name": "CAPITA PLC"
+    },
+    {
+        "ticker": "CNE",
+        "full_name": "CAPRICORN ENERGY PLC"
+    },
+    {
+        "ticker": "CPX",
+        "full_name": "CAP-XX LIMITED"
+    },
+    {
+        "ticker": "GCAT",
+        "full_name": "CARACAL GOLD PLC"
+    },
+    {
+        "ticker": "CAR",
+        "full_name": "CARCLO PLC"
+    },
+    {
+        "ticker": "CARD",
+        "full_name": "CARD FACTORY PLC"
+    },
+    {
+        "ticker": "CDFF",
+        "full_name": "CARDIFF PROPERTY PLC"
+    },
+    {
+        "ticker": "CLLN",
+        "full_name": "CARILLION PLC"
+    },
+    {
+        "ticker": "CCL",
+        "full_name": "CARNIVAL PLC"
+    },
+    {
+        "ticker": "CARR",
+        "full_name": "CARR'S GROUP PLC"
+    },
+    {
+        "ticker": "CASP",
+        "full_name": "CASPIAN SUNRISE PLC"
+    },
+    {
+        "ticker": "CGL",
+        "full_name": "CASTELNAU GROUP LIMITED"
+    },
+    {
+        "ticker": "CGS",
+        "full_name": "CASTINGS PLC"
+    },
+    {
+        "ticker": "CMX",
+        "full_name": "CATALYST MEDIA GROUP PLC"
+    },
+    {
+        "ticker": "CTAI",
+        "full_name": "CATENAI PLC"
+    },
+    {
+        "ticker": "CFHS",
+        "full_name": "CATHAY FINANCIAL HOLDING CO LTD"
+    },
+    {
+        "ticker": "CAV",
+        "full_name": "CAVENDISH PLC"
+    },
+    {
+        "ticker": "CCR",
+        "full_name": "C&C GROUP PLC"
+    },
+    {
+        "ticker": "CCJI",
+        "full_name": "CC JAPAN INCOME & GROWTH TRUST PLC"
+    },
+    {
+        "ticker": "CBA",
+        "full_name": "CEIBA INVESTMENTS LIMITED"
+    },
+    {
+        "ticker": "CEL",
+        "full_name": "CELADON PHARMACEUTICALS PLC"
+    },
+    {
+        "ticker": "CLAI",
+        "full_name": "CEL AI PLC"
+    },
+    {
+        "ticker": "CLBS",
+        "full_name": "CELEBRUS TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "CLA",
+        "full_name": "CELSIUS RESOURCES LIMITED"
+    },
+    {
+        "ticker": "CCP",
+        "full_name": "CELTIC PLC"
+    },
+    {
+        "ticker": "CAU",
+        "full_name": "CENTAUR MEDIA PLC"
+    },
+    {
+        "ticker": "CAML",
+        "full_name": "CENTRAL ASIA METALS PLC"
+    },
+    {
+        "ticker": "CNA",
+        "full_name": "CENTRICA PLC"
+    },
+    {
+        "ticker": "CEPS",
+        "full_name": "CEPS PLC"
+    },
+    {
+        "ticker": "CWR",
+        "full_name": "CERES POWER HOLDINGS PLC"
+    },
+    {
+        "ticker": "CER",
+        "full_name": "CERILLION PLC"
+    },
+    {
+        "ticker": "CEG",
+        "full_name": "CHALLENGER ENERGY GROUP PLC"
+    },
+    {
+        "ticker": "CDGP",
+        "full_name": "CHAPEL DOWN GROUP PLC"
+    },
+    {
+        "ticker": "CHAR",
+        "full_name": "CHARIOT LIMITED"
+    },
+    {
+        "ticker": "CKT",
+        "full_name": "CHECKIT PLC"
+    },
+    {
+        "ticker": "SDV",
+        "full_name": "CHELVERTON UK DIVIDEND TRUST PLC"
+    },
+    {
+        "ticker": "BC88",
+        "full_name": "CHEMRING GROUP PLC"
+    },
+    {
+        "ticker": "TORG",
+        "full_name": "CHENAVARI TORO INCOME FUND LIMITED"
+    },
+    {
+        "ticker": "CSN",
+        "full_name": "CHESNARA PLC"
+    },
+    {
+        "ticker": "CHF",
+        "full_name": "CHESTERFIELD RESOURCES PLC"
+    },
+    {
+        "ticker": "CSC",
+        "full_name": "CHESTERFIELD SPECIAL CYLINDERS HOLDINGS PLC"
+    },
+    {
+        "ticker": "CHLL",
+        "full_name": "CHILL BRANDS GROUP PLC"
+    },
+    {
+        "ticker": "CPIC",
+        "full_name": "CHINA PACIFIC INSURANCE (GROUP) CO., LTD"
+    },
+    {
+        "ticker": "CNSD",
+        "full_name": "CHINA STEEL CORPORATION"
+    },
+    {
+        "ticker": "TK",
+        "full_name": "CHINA YANGTZE POWER CO., LTD"
+    },
+    {
+        "ticker": "CTG",
+        "full_name": "CHRISTIE GROUP PLC"
+    },
+    {
+        "ticker": "CHRY",
+        "full_name": "CHRYSALIS INVESTMENTS LIMITED"
+    },
+    {
+        "ticker": "CHH",
+        "full_name": "CHURCHILL CHINA PLC"
+    },
+    {
+        "ticker": "CRTA",
+        "full_name": "CIRATA PLC"
+    },
+    {
+        "ticker": "CLIG",
+        "full_name": "CITY OF LONDON INVESTMENT GROUP PLC"
+    },
+    {
+        "ticker": "BA47",
+        "full_name": "CITY OF LONDON INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "CIZ",
+        "full_name": "CIZZLE BIOTECHNOLOGY HOLDINGS PLC"
+    },
+    {
+        "ticker": "CKI",
+        "full_name": "CK INFRASTRUCTURE HOLDINGS LIMITED"
+    },
+    {
+        "ticker": "CKN",
+        "full_name": "CLARKSON PLC"
+    },
+    {
+        "ticker": "CPH2",
+        "full_name": "CLEAN POWER HYDROGEN PLC"
+    },
+    {
+        "ticker": "CTL",
+        "full_name": "CLEANTECH LITHIUM PLC"
+    },
+    {
+        "ticker": "CLON",
+        "full_name": "CLONTARF ENERGY PLC"
+    },
+    {
+        "ticker": "CBG",
+        "full_name": "CLOSE BROTHERS GROUP PLC"
+    },
+    {
+        "ticker": "CDL",
+        "full_name": "CLOUDBREAK DISCOVERY PLC"
+    },
+    {
+        "ticker": "CLCO",
+        "full_name": "CLOUDCOCO GROUP PLC"
+    },
+    {
+        "ticker": "CHL",
+        "full_name": "CLOUDIFIED HOLDINGS LIMITED"
+    },
+    {
+        "ticker": "CLI",
+        "full_name": "CLS HOLDINGS PLC"
+    },
+    {
+        "ticker": "CMCX",
+        "full_name": "CMC MARKETS PLC"
+    },
+    {
+        "ticker": "CML",
+        "full_name": "CML MICROSYSTEMS PLC"
+    },
+    {
+        "ticker": "COA",
+        "full_name": "COATS GROUP PLC"
+    },
+    {
+        "ticker": "COBR",
+        "full_name": "COBRA RESOURCES PLC"
+    },
+    {
+        "ticker": "CCEP",
+        "full_name": "COCA-COLA EUROPACIFIC PARTNERS PLC"
+    },
+    {
+        "ticker": "CCH",
+        "full_name": "COCA-COLA HBC AG"
+    },
+    {
+        "ticker": "CHRT",
+        "full_name": "COHORT PLC"
+    },
+    {
+        "ticker": "CFX",
+        "full_name": "COLEFAX GROUP PLC"
+    },
+    {
+        "ticker": "JB",
+        "full_name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E."
+    },
+    {
+        "ticker": "COD",
+        "full_name": "COMPAGNIE DE SAINT-GOBAIN"
+    },
+    {
+        "ticker": "CEIA",
+        "full_name": "COMPAL ELECTRONICS INC"
+    },
+    {
+        "ticker": "CPG",
+        "full_name": "COMPASS GROUP PLC"
+    },
+    {
+        "ticker": "COM",
+        "full_name": "COMPTOIR GROUP PLC"
+    },
+    {
+        "ticker": "CCC",
+        "full_name": "COMPUTACENTER PLC"
+    },
+    {
+        "ticker": "CNC",
+        "full_name": "CONCURRENT TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "CRE",
+        "full_name": "CONDUIT HOLDINGS LIMITED"
+    },
+    {
+        "ticker": "EBGA",
+        "full_name": "CONNECT ETFS ICAV"
+    },
+    {
+        "ticker": "CGNR",
+        "full_name": "CONROY GOLD & NATURAL RESOURCES PLC"
+    },
+    {
+        "ticker": "CGO",
+        "full_name": "CONTANGO HOLDINGS PLC"
+    },
+    {
+        "ticker": "CTEC",
+        "full_name": "CONVATEC GROUP PLC"
+    },
+    {
+        "ticker": "CIC",
+        "full_name": "CONYGAR INVESTMENT COMPANY PLC (THE)"
+    },
+    {
+        "ticker": "CORA",
+        "full_name": "CORA GOLD LIMITED"
+    },
+    {
+        "ticker": "CRU",
+        "full_name": "CORAL PRODUCTS PLC"
+    },
+    {
+        "ticker": "CRCL",
+        "full_name": "CORCEL PLC"
+    },
+    {
+        "ticker": "CRDL",
+        "full_name": "CORDEL GROUP PLC"
+    },
+    {
+        "ticker": "CORD",
+        "full_name": "CORDIANT DIGITAL INFRASTRUCTURE LIMITED"
+    },
+    {
+        "ticker": "CNS",
+        "full_name": "CORERO NETWORK SECURITY PLC"
+    },
+    {
+        "ticker": "CUSN",
+        "full_name": "CORNISH METALS INC."
+    },
+    {
+        "ticker": "CORO",
+        "full_name": "CORO ENERGY PLC"
+    },
+    {
+        "ticker": "COR",
+        "full_name": "CORPUS RESOURCES PLC"
+    },
+    {
+        "ticker": "COST",
+        "full_name": "COSTAIN GROUP PLC"
+    },
+    {
+        "ticker": "CPP",
+        "full_name": "CPPGROUP PLC"
+    },
+    {
+        "ticker": "CYN",
+        "full_name": "CQS NATURAL RESOURCES GROWTH AND INCOME PLC"
+    },
+    {
+        "ticker": "NCYF",
+        "full_name": "CQS NEW CITY HIGH YIELD FUND LIMITED"
+    },
+    {
+        "ticker": "CRW",
+        "full_name": "CRANEWARE PLC"
+    },
+    {
+        "ticker": "CWK",
+        "full_name": "CRANSWICK PLC"
+    },
+    {
+        "ticker": "CRV",
+        "full_name": "CRAVEN HOUSE CAPITAL PLC"
+    },
+    {
+        "ticker": "CRL",
+        "full_name": "CREIGHTONS PLC"
+    },
+    {
+        "ticker": "CREO",
+        "full_name": "CREO MEDICAL GROUP PLC"
+    },
+    {
+        "ticker": "CRST",
+        "full_name": "CREST NICHOLSON HOLDINGS PLC"
+    },
+    {
+        "ticker": "GM",
+        "full_name": "CRH PLC"
+    },
+    {
+        "ticker": "TIDE",
+        "full_name": "CRIMSON TIDE PLC"
+    },
+    {
+        "ticker": "CRTX",
+        "full_name": "CRISM THERAPEUTICS CORPORATION"
+    },
+    {
+        "ticker": "CRTM",
+        "full_name": "CRITICAL METALS PLC"
+    },
+    {
+        "ticker": "CMRS",
+        "full_name": "CRITICAL MINERAL RESOURCES PLC"
+    },
+    {
+        "ticker": "GP",
+        "full_name": "CRODA INTERNATIONAL PLC"
+    },
+    {
+        "ticker": "CSSG",
+        "full_name": "CROMA SECURITY SOLUTIONS GROUP PLC"
+    },
+    {
+        "ticker": "CRPR",
+        "full_name": "CROPPER (JAMES) PLC"
+    },
+    {
+        "ticker": "CRS",
+        "full_name": "CRYSTAL AMBER FUND LIMITED"
+    },
+    {
+        "ticker": "CTA",
+        "full_name": "CT AUTOMOTIVE GROUP PLC"
+    },
+    {
+        "ticker": "CMPG",
+        "full_name": "CT GLOBAL MANAGED PORTFOLIO TRUST PLC"
+    },
+    {
+        "ticker": "CTPE",
+        "full_name": "CT PRIVATE EQUITY TRUST PLC"
+    },
+    {
+        "ticker": "CTUK",
+        "full_name": "CT UK CAPITAL AND INCOME INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "CHI",
+        "full_name": "CT UK HIGH INCOME TRUST PLC"
+    },
+    {
+        "ticker": "CURY",
+        "full_name": "CURRYS PLC"
+    },
+    {
+        "ticker": "CREI",
+        "full_name": "CUSTODIAN PROPERTY INCOME REIT PLC"
+    },
+    {
+        "ticker": "CVCE",
+        "full_name": "CVC INCOME & GROWTH LIMITED"
+    },
+    {
+        "ticker": "CVSG",
+        "full_name": "CVS GROUP PLC"
+    },
+    {
+        "ticker": "CYAN",
+        "full_name": "CYANCONNODE HOLDINGS PLC"
+    },
+    {
+        "ticker": "CYK",
+        "full_name": "CYKEL AI PLC"
+    },
+    {
+        "ticker": "DAL",
+        "full_name": "DALATA HOTEL GROUP PLC"
+    },
+    {
+        "ticker": "DAR",
+        "full_name": "DAR GLOBAL PLC"
+    },
+    {
+        "ticker": "DAT",
+        "full_name": "DATANG INTERNATIONAL POWER GENERATION COMPANY LD"
+    },
+    {
+        "ticker": "DVT",
+        "full_name": "DAVICTUS PLC"
+    },
+    {
+        "ticker": "DCC",
+        "full_name": "DCC PLC"
+    },
+    {
+        "ticker": "DCI",
+        "full_name": "DCI ADVISORS LTD"
+    },
+    {
+        "ticker": "ALRT",
+        "full_name": "DEFENCE HOLDINGS PLC"
+    },
+    {
+        "ticker": "DKL",
+        "full_name": "DEKEL AGRI-VISION PLC"
+    },
+    {
+        "ticker": "DLAR",
+        "full_name": "DE LA RUE PLC"
+    },
+    {
+        "ticker": "ROO",
+        "full_name": "DELIVEROO PLC"
+    },
+    {
+        "ticker": "DELT",
+        "full_name": "DELTIC ENERGY PLC"
+    },
+    {
+        "ticker": "DLN",
+        "full_name": "DERWENT LONDON PLC"
+    },
+    {
+        "ticker": "DVNO",
+        "full_name": "DEVELOP NORTH PLC"
+    },
+    {
+        "ticker": "DEVO",
+        "full_name": "DEVOLVER DIGITAL, INC."
+    },
+    {
+        "ticker": "DWHA",
+        "full_name": "DEWHURST GROUP PLC"
+    },
+    {
+        "ticker": "DFI",
+        "full_name": "DFI RETAIL GROUP HOLDINGS LIMITED"
+    },
+    {
+        "ticker": "DFS",
+        "full_name": "DFS FURNITURE PLC"
+    },
+    {
+        "ticker": "DXRX",
+        "full_name": "DIACEUTICS PLC"
+    },
+    {
+        "ticker": "DGE",
+        "full_name": "DIAGEO PLC"
+    },
+    {
+        "ticker": "DIAL",
+        "full_name": "DIALES GROUP PLC"
+    },
+    {
+        "ticker": "DIA",
+        "full_name": "DIALIGHT PLC"
+    },
+    {
+        "ticker": "DNM",
+        "full_name": "DIANOMI PLC"
+    },
+    {
+        "ticker": "DGI9",
+        "full_name": "DIGITAL 9 INFRASTRUCTURE PLC"
+    },
+    {
+        "ticker": "DBOX",
+        "full_name": "DIGITALBOX PLC"
+    },
+    {
+        "ticker": "DSG",
+        "full_name": "DILLISTONE GROUP PLC"
+    },
+    {
+        "ticker": "DPLM",
+        "full_name": "DIPLOMA PLC"
+    },
+    {
+        "ticker": "DCTA",
+        "full_name": "DIRECTA PLUS PLC"
+    },
+    {
+        "ticker": "DLG",
+        "full_name": "DIRECT LINE INSURANCE GROUP PLC"
+    },
+    {
+        "ticker": "DSCV",
+        "full_name": "DISCOVERIE GROUP PLC"
+    },
+    {
+        "ticker": "DTVL",
+        "full_name": "DISH TV INDIA LIMITED"
+    },
+    {
+        "ticker": "DIS",
+        "full_name": "DISTIL PLC"
+    },
+    {
+        "ticker": "DFCH",
+        "full_name": "DISTRIBUTION FINANCE CAPITAL HOLDINGS PLC"
+    },
+    {
+        "ticker": "DIVI",
+        "full_name": "DIVERSE INCOME TRUST (THE) PLC"
+    },
+    {
+        "ticker": "DEC",
+        "full_name": "DIVERSIFIED ENERGY COMPANY PLC"
+    },
+    {
+        "ticker": "DOM",
+        "full_name": "DOMINO'S PIZZA GROUP PLC"
+    },
+    {
+        "ticker": "DNA3",
+        "full_name": "DORIC NIMROD AIR THREE LIMITED"
+    },
+    {
+        "ticker": "DOTD",
+        "full_name": "DOTDIGITAL GROUP PLC"
+    },
+    {
+        "ticker": "DWL",
+        "full_name": "DOWLAIS GROUP PLC"
+    },
+    {
+        "ticker": "DORE",
+        "full_name": "DOWNING RENEWABLES & INFRASTRUCTURE TRUST PLC"
+    },
+    {
+        "ticker": "DSM",
+        "full_name": "DOWNING STRATEGIC MICRO-CAP INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "DPA",
+        "full_name": "DP AIRCRAFT I LIMITED"
+    },
+    {
+        "ticker": "DPP",
+        "full_name": "DP POLAND PLC"
+    },
+    {
+        "ticker": "DRX",
+        "full_name": "DRAX GROUP PLC"
+    },
+    {
+        "ticker": "DOCS",
+        "full_name": "DR. MARTENS PLC"
+    },
+    {
+        "ticker": "DSW",
+        "full_name": "DSW CAPITAL PLC"
+    },
+    {
+        "ticker": "DUKE",
+        "full_name": "DUKE CAPITAL LIMITED"
+    },
+    {
+        "ticker": "DNE",
+        "full_name": "DUNEDIN ENTERPRISE INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "DIG",
+        "full_name": "DUNEDIN INCOME GROWTH INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "DNLM",
+        "full_name": "DUNELM GROUP PLC"
+    },
+    {
+        "ticker": "EYE",
+        "full_name": "EAGLE EYE SOLUTIONS GROUP PLC"
+    },
+    {
+        "ticker": "EARN",
+        "full_name": "EARNZ PLC"
+    },
+    {
+        "ticker": "EST",
+        "full_name": "EAST STAR RESOURCES PLC"
+    },
+    {
+        "ticker": "EZJ",
+        "full_name": "EASYJET PLC"
+    },
+    {
+        "ticker": "EBQ",
+        "full_name": "EBIQUITY PLC"
+    },
+    {
+        "ticker": "ELLA",
+        "full_name": "ECCLESIASTICAL INSURANCE OFFICE PLC"
+    },
+    {
+        "ticker": "EAH",
+        "full_name": "ECO ANIMAL HEALTH GROUP PLC"
+    },
+    {
+        "ticker": "ECO",
+        "full_name": "ECO (ATLANTIC) OIL & GAS LTD"
+    },
+    {
+        "ticker": "ECOB",
+        "full_name": "ECO BUILDINGS GROUP PLC"
+    },
+    {
+        "ticker": "EGL",
+        "full_name": "ECOFIN GLOBAL UTILITIES AND INFRASTRUCTURE TRUST PLC"
+    },
+    {
+        "ticker": "RNEP",
+        "full_name": "ECOFIN U.S. RENEWABLES INFRASTRUCTURE TRUST PLC"
+    },
+    {
+        "ticker": "ECOR",
+        "full_name": "ECORA RESOURCES PLC"
+    },
+    {
+        "ticker": "ECR",
+        "full_name": "ECR MINERALS PLC"
+    },
+    {
+        "ticker": "EDEN",
+        "full_name": "EDEN RESEARCH PLC"
+    },
+    {
+        "ticker": "EDIN",
+        "full_name": "EDINBURGH INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "EWI",
+        "full_name": "EDINBURGH WORLDWIDE INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "XD",
+        "full_name": "EDITA FOOD INDUSTRIES S.A.E."
+    },
+    {
+        "ticker": "EAAS",
+        "full_name": "EENERGY GROUP PLC"
+    },
+    {
+        "ticker": "BG79",
+        "full_name": "EFG HOLDING S.A.E."
+    },
+    {
+        "ticker": "EJF0",
+        "full_name": "EJF INVESTMENTS LTD"
+    },
+    {
+        "ticker": "EKF",
+        "full_name": "EKF DIAGNOSTICS HOLDINGS PLC"
+    },
+    {
+        "ticker": "ELCO",
+        "full_name": "ELECO PUBLIC LIMITED COMPANY"
+    },
+    {
+        "ticker": "ELEG",
+        "full_name": "ELECTRIC GUITAR PLC"
+    },
+    {
+        "ticker": "ELM",
+        "full_name": "ELEMENTIS PLC"
+    },
+    {
+        "ticker": "ELIX",
+        "full_name": "ELIXIRR INTERNATIONAL PLC"
+    },
+    {
+        "ticker": "EML",
+        "full_name": "EMMERSON PLC"
+    },
+    {
+        "ticker": "EEE",
+        "full_name": "EMPIRE METALS LIMITED"
+    },
+    {
+        "ticker": "ESP",
+        "full_name": "EMPIRIC STUDENT PROPERTY PLC"
+    },
+    {
+        "ticker": "EMR",
+        "full_name": "EMPRESARIA GROUP PLC"
+    },
+    {
+        "ticker": "EME",
+        "full_name": "EMPYREAN ENERGY PLC"
+    },
+    {
+        "ticker": "EMVC",
+        "full_name": "EMV CAPITAL PLC"
+    },
+    {
+        "ticker": "EDV",
+        "full_name": "ENDEAVOUR MINING PLC"
+    },
+    {
+        "ticker": "ETP",
+        "full_name": "ENERAQUA TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "ENOG",
+        "full_name": "ENERGEAN PLC"
+    },
+    {
+        "ticker": "EPP",
+        "full_name": "ENERGYPATHWAYS PLC"
+    },
+    {
+        "ticker": "EXR",
+        "full_name": "ENGAGE XR HOLDINGS PLC"
+    },
+    {
+        "ticker": "ENQ",
+        "full_name": "ENQUEST PLC"
+    },
+    {
+        "ticker": "ENSI",
+        "full_name": "ENSILICA PLC"
+    },
+    {
+        "ticker": "ENT",
+        "full_name": "ENTAIN PLC"
+    },
+    {
+        "ticker": "ENW",
+        "full_name": "ENWELL ENERGY PLC"
+    },
+    {
+        "ticker": "ESO",
+        "full_name": "EPE SPECIAL OPPORTUNITIES LIMITED"
+    },
+    {
+        "ticker": "EPWN",
+        "full_name": "EPWIN GROUP PLC"
+    },
+    {
+        "ticker": "EQT",
+        "full_name": "EQTEC PLC"
+    },
+    {
+        "ticker": "ESYS",
+        "full_name": "ESSENSYS PLC"
+    },
+    {
+        "ticker": "ESNT",
+        "full_name": "ESSENTRA PLC"
+    },
+    {
+        "ticker": "ENET",
+        "full_name": "ETHERNITY NETWORKS LTD"
+    },
+    {
+        "ticker": "EUA",
+        "full_name": "EURASIA MINING PLC"
+    },
+    {
+        "ticker": "ECEL",
+        "full_name": "EUROCELL PLC"
+    },
+    {
+        "ticker": "EUZ",
+        "full_name": "EUROPA METALS LTD"
+    },
+    {
+        "ticker": "EOG",
+        "full_name": "EUROPA OIL & GAS (HOLDINGS) PLC"
+    },
+    {
+        "ticker": "EAT",
+        "full_name": "EUROPEAN ASSETS TRUST PLC"
+    },
+    {
+        "ticker": "EGT",
+        "full_name": "EUROPEAN GREEN TRANSITION PLC"
+    },
+    {
+        "ticker": "EMH",
+        "full_name": "EUROPEAN METALS HOLDINGS LIMITED"
+    },
+    {
+        "ticker": "EOT",
+        "full_name": "EUROPEAN OPPORTUNITIES TRUST PLC"
+    },
+    {
+        "ticker": "ETL",
+        "full_name": "EUTELSAT COMMUNICATIONS S.A."
+    },
+    {
+        "ticker": "EVST",
+        "full_name": "EVEREST GLOBAL PLC"
+    },
+    {
+        "ticker": "EVPL",
+        "full_name": "EVERPLAY GROUP PLC"
+    },
+    {
+        "ticker": "EMAN",
+        "full_name": "EVERYMAN MEDIA GROUP PLC"
+    },
+    {
+        "ticker": "EVOK",
+        "full_name": "EVOKE PLC"
+    },
+    {
+        "ticker": "EVR",
+        "full_name": "EVRAZ PLC"
+    },
+    {
+        "ticker": "BGX",
+        "full_name": "EXPAT ASSET MANAGEMENT EAD"
+    },
+    {
+        "ticker": "EXPN",
+        "full_name": "EXPERIAN PLC"
+    },
+    {
+        "ticker": "ADF",
+        "full_name": "FACILITIES BY ADF PLC"
+    },
+    {
+        "ticker": "FADL",
+        "full_name": "FADEL PARTNERS, INC."
+    },
+    {
+        "ticker": "FA17",
+        "full_name": "FAIR OAKS INCOME LIMITED"
+    },
+    {
+        "ticker": "FIL",
+        "full_name": "FAIRVIEW INTERNATIONAL PLC"
+    },
+    {
+        "ticker": "FOG",
+        "full_name": "FALCON OIL & GAS LTD."
+    },
+    {
+        "ticker": "FHP",
+        "full_name": "FANDANGO HOLDINGS PLC"
+    },
+    {
+        "ticker": "FARN",
+        "full_name": "FARON PHARMACEUTICALS OY"
+    },
+    {
+        "ticker": "FCIT",
+        "full_name": "F&C INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "FDM",
+        "full_name": "FDM GROUP (HOLDINGS) PLC"
+    },
+    {
+        "ticker": "FDP",
+        "full_name": "FD TECHNOLOGIES PUBLIC LIMITED COMPANY"
+    },
+    {
+        "ticker": "FEDA",
+        "full_name": "FEDERAL BANK LIMITED (THE)"
+    },
+    {
+        "ticker": "FDBK",
+        "full_name": "FEEDBACK PLC"
+    },
+    {
+        "ticker": "FERG",
+        "full_name": "FERGUSON ENTERPRISES INC."
+    },
+    {
+        "ticker": "FXPO",
+        "full_name": "FERREXPO PLC"
+    },
+    {
+        "ticker": "FAR",
+        "full_name": "FERRO-ALLOY RESOURCES LIMITED"
+    },
+    {
+        "ticker": "FEVR",
+        "full_name": "FEVERTREE DRINKS PLC"
+    },
+    {
+        "ticker": "FAS",
+        "full_name": "FIDELITY ASIAN VALUES PLC"
+    },
+    {
+        "ticker": "FCSS",
+        "full_name": "FIDELITY CHINA SPECIAL SITUATIONS PLC"
+    },
+    {
+        "ticker": "FEML",
+        "full_name": "FIDELITY EMERGING MARKETS LIMITED"
+    },
+    {
+        "ticker": "FEV",
+        "full_name": "FIDELITY EUROPEAN TRUST PLC"
+    },
+    {
+        "ticker": "FJV",
+        "full_name": "FIDELITY JAPAN TRUST PLC"
+    },
+    {
+        "ticker": "FSV",
+        "full_name": "FIDELITY SPECIAL VALUES PLC"
+    },
+    {
+        "ticker": "FEMD",
+        "full_name": "FIDELITY UCITS ICAV"
+    },
+    {
+        "ticker": "FEIG",
+        "full_name": "FIDELITY UCITS II ICAV"
+    },
+    {
+        "ticker": "FIH",
+        "full_name": "FIH GROUP PLC"
+    },
+    {
+        "ticker": "BANK",
+        "full_name": "FIINU PLC"
+    },
+    {
+        "ticker": "FTC",
+        "full_name": "FILTRONIC PLC"
+    },
+    {
+        "ticker": "FXRU",
+        "full_name": "FINEX FUNDS ICAV"
+    },
+    {
+        "ticker": "FGT",
+        "full_name": "FINSBURY GROWTH & INCOME TRUST PLC"
+    },
+    {
+        "ticker": "FIN",
+        "full_name": "FINSETA PLC"
+    },
+    {
+        "ticker": "FNTL",
+        "full_name": "FINTEL PLC"
+    },
+    {
+        "ticker": "FRG",
+        "full_name": "FIRERING STRATEGIC MINERALS PLC"
+    },
+    {
+        "ticker": "FCM",
+        "full_name": "FIRST CLASS METALS PLC"
+    },
+    {
+        "ticker": "FGP",
+        "full_name": "FIRSTGROUP PLC"
+    },
+    {
+        "ticker": "FPO",
+        "full_name": "FIRST PROPERTY GROUP PLC"
+    },
+    {
+        "ticker": "SN",
+        "full_name": "FIRST TIN PLC"
+    },
+    {
+        "ticker": "APRF",
+        "full_name": "FIRST TRUST GLOBAL FUNDS PUBLIC LIMITED COMPANY"
+    },
+    {
+        "ticker": "FSJ",
+        "full_name": "FISHER (JAMES) & SONS PLC"
+    },
+    {
+        "ticker": "GU",
+        "full_name": "FISHGUARD & ROSSLARE RAILWAYS & HARBOURS COMPANY"
+    },
+    {
+        "ticker": "FKE",
+        "full_name": "FISKE PLC"
+    },
+    {
+        "ticker": "FLK",
+        "full_name": "FLETCHER KING PLC"
+    },
+    {
+        "ticker": "FLO",
+        "full_name": "FLOWTECH FLUIDPOWER PLC"
+    },
+    {
+        "ticker": "FLTR",
+        "full_name": "FLUTTER ENTERTAINMENT PLC"
+    },
+    {
+        "ticker": "TUNE",
+        "full_name": "FOCUSRITE PLC"
+    },
+    {
+        "ticker": "FOX",
+        "full_name": "FOCUS XPLORE PLC"
+    },
+    {
+        "ticker": "FNX",
+        "full_name": "FONIX PLC"
+    },
+    {
+        "ticker": "FTF",
+        "full_name": "FORESIGHT ENTERPRISE VCT PLC"
+    },
+    {
+        "ticker": "FGEN",
+        "full_name": "FORESIGHT ENVIRONMENTAL INFRASTRUCTURE LIMITED"
+    },
+    {
+        "ticker": "FSG",
+        "full_name": "FORESIGHT GROUP HOLDINGS LIMITED"
+    },
+    {
+        "ticker": "FSFL",
+        "full_name": "FORESIGHT SOLAR FUND LIMITED"
+    },
+    {
+        "ticker": "FWT",
+        "full_name": "FORESIGHT TECHNOLOGY VCT PLC"
+    },
+    {
+        "ticker": "FTV",
+        "full_name": "FORESIGHT VCT PLC"
+    },
+    {
+        "ticker": "FVEN",
+        "full_name": "FORESIGHT VENTURES VCT PLC"
+    },
+    {
+        "ticker": "FORT",
+        "full_name": "FORTERRA PLC"
+    },
+    {
+        "ticker": "FOXT",
+        "full_name": "FOXTONS GROUP PLC"
+    },
+    {
+        "ticker": "FPP",
+        "full_name": "FRAGRANT PROSPERITY HOLDINGS LIMITED"
+    },
+    {
+        "ticker": "FRAN",
+        "full_name": "FRANCHISE BRANDS PLC"
+    },
+    {
+        "ticker": "FRGT",
+        "full_name": "FRANKLIN GLOBAL TRUST PLC"
+    },
+    {
+        "ticker": "P",
+        "full_name": "FRANKLIN TEMPLETON ICAV"
+    },
+    {
+        "ticker": "FRAS",
+        "full_name": "FRASERS GROUP PLC"
+    },
+    {
+        "ticker": "FEN",
+        "full_name": "FRENKEL TOPPING GROUP PLC"
+    },
+    {
+        "ticker": "FRES",
+        "full_name": "FRESNILLO PLC"
+    },
+    {
+        "ticker": "FDEV",
+        "full_name": "FRONTIER DEVELOPMENTS PLC"
+    },
+    {
+        "ticker": "FIPP",
+        "full_name": "FRONTIER IP GROUP PLC"
+    },
+    {
+        "ticker": "FRP",
+        "full_name": "FRP ADVISORY GROUP PLC"
+    },
+    {
+        "ticker": "FVV",
+        "full_name": "FUEL VENTURES VCT PLC"
+    },
+    {
+        "ticker": "FMET",
+        "full_name": "FULCRUM METALS PLC"
+    },
+    {
+        "ticker": "GW",
+        "full_name": "FULLER, SMITH & TURNER PLC"
+    },
+    {
+        "ticker": "FCH",
+        "full_name": "FUNDING CIRCLE HOLDINGS PLC"
+    },
+    {
+        "ticker": "FAB",
+        "full_name": "FUSION ANTIBODIES PLC"
+    },
+    {
+        "ticker": "FUM",
+        "full_name": "FUTURA MEDICAL PLC"
+    },
+    {
+        "ticker": "FME",
+        "full_name": "FUTURE METALS NL"
+    },
+    {
+        "ticker": "FUTR",
+        "full_name": "FUTURE PLC"
+    },
+    {
+        "ticker": "GMP",
+        "full_name": "GABELLI MERCHANT PARTNERS PLC"
+    },
+    {
+        "ticker": "GAIA",
+        "full_name": "GAIL (INDIA) LD"
+    },
+    {
+        "ticker": "GAL",
+        "full_name": "GALANTAS GOLD CORPORATION"
+    },
+    {
+        "ticker": "GLR",
+        "full_name": "GALILEO RESOURCES PLC"
+    },
+    {
+        "ticker": "GFRD",
+        "full_name": "GALLIFORD TRY HOLDINGS PLC"
+    },
+    {
+        "ticker": "GAW",
+        "full_name": "GAMES WORKSHOP GROUP PLC"
+    },
+    {
+        "ticker": "GMR",
+        "full_name": "GAMING REALMS PLC"
+    },
+    {
+        "ticker": "GAMA",
+        "full_name": "GAMMA COMMUNICATIONS PLC"
+    },
+    {
+        "ticker": "GTLY",
+        "full_name": "GATELEY (HOLDINGS) PLC"
+    },
+    {
+        "ticker": "GATC",
+        "full_name": "GATTACA PLC"
+    },
+    {
+        "ticker": "GBG",
+        "full_name": "GB GROUP PLC"
+    },
+    {
+        "ticker": "GCM",
+        "full_name": "GCM RESOURCES PLC"
+    },
+    {
+        "ticker": "GABI",
+        "full_name": "GCP ASSET BACKED INCOME FUND LIMITED"
+    },
+    {
+        "ticker": "GCP",
+        "full_name": "GCP INFRASTRUCTURE INVESTMENTS LIMITED"
+    },
+    {
+        "ticker": "G4M",
+        "full_name": "GEAR4MUSIC (HOLDINGS) PLC"
+    },
+    {
+        "ticker": "GCL",
+        "full_name": "GEIGER COUNTER LIMITED"
+    },
+    {
+        "ticker": "GELN",
+        "full_name": "GELION PLC"
+    },
+    {
+        "ticker": "GEMD",
+        "full_name": "GEM DIAMONDS LIMITED"
+    },
+    {
+        "ticker": "GEM",
+        "full_name": "GEMFIELDS GROUP LIMITED"
+    },
+    {
+        "ticker": "GEMR",
+        "full_name": "GEM RESOURCES PLC"
+    },
+    {
+        "ticker": "GDR",
+        "full_name": "GENEDRIVE PLC"
+    },
+    {
+        "ticker": "GENL",
+        "full_name": "GENEL ENERGY PLC"
+    },
+    {
+        "ticker": "GENF",
+        "full_name": "GENFLOW BIOSCIENCES PLC"
+    },
+    {
+        "ticker": "GENI",
+        "full_name": "GENINCODE PLC"
+    },
+    {
+        "ticker": "GNIP",
+        "full_name": "GENIP PLC"
+    },
+    {
+        "ticker": "GEN",
+        "full_name": "GENUIT GROUP PLC"
+    },
+    {
+        "ticker": "GNS",
+        "full_name": "GENUS PLC"
+    },
+    {
+        "ticker": "GEO",
+        "full_name": "GEO EXPLORATION LIMITED"
+    },
+    {
+        "ticker": "CGEO",
+        "full_name": "GEORGIA CAPITAL PLC"
+    },
+    {
+        "ticker": "GEX",
+        "full_name": "GEORGINA ENERGY PLC"
+    },
+    {
+        "ticker": "GETB",
+        "full_name": "GETBUSY PLC"
+    },
+    {
+        "ticker": "GTC",
+        "full_name": "GETECH GROUP PLC"
+    },
+    {
+        "ticker": "GFIN",
+        "full_name": "GFINITY PLC"
+    },
+    {
+        "ticker": "GLB",
+        "full_name": "GLANBIA PLC"
+    },
+    {
+        "ticker": "GLEN",
+        "full_name": "GLENCORE PLC"
+    },
+    {
+        "ticker": "GLV",
+        "full_name": "GLENVEAGH PROPERTIES PLC"
+    },
+    {
+        "ticker": "DATA",
+        "full_name": "GLOBALDATA PLC"
+    },
+    {
+        "ticker": "GOT",
+        "full_name": "GLOBAL OPPORTUNITIES TRUST PLC"
+    },
+    {
+        "ticker": "GWI",
+        "full_name": "GLOBALWORTH REAL ESTATE INVESTMENTS LIMITED"
+    },
+    {
+        "ticker": "AIQG",
+        "full_name": "GLOBAL X ETFS ICAV"
+    },
+    {
+        "ticker": "CAUG",
+        "full_name": "GLOBAL X ETFS II ICAV"
+    },
+    {
+        "ticker": "GPM",
+        "full_name": "GOLDEN PROSPECT PRECIOUS METALS LIMITED"
+    },
+    {
+        "ticker": "GCG",
+        "full_name": "GOLDEN ROCK GLOBAL PLC"
+    },
+    {
+        "ticker": "CBGB",
+        "full_name": "GOLDMAN SACHS ETF ICAV"
+    },
+    {
+        "ticker": "GDP",
+        "full_name": "GOLDPLAT PLC"
+    },
+    {
+        "ticker": "GRL",
+        "full_name": "GOLDSTONE RESOURCES LIMITED"
+    },
+    {
+        "ticker": "GHH",
+        "full_name": "GOOCH & HOUSEGO PLC"
+    },
+    {
+        "ticker": "GDWN",
+        "full_name": "GOODWIN PLC"
+    },
+    {
+        "ticker": "GSF",
+        "full_name": "GORE STREET ENERGY STORAGE FUND PLC"
+    },
+    {
+        "ticker": "GFTU",
+        "full_name": "GRAFTON GROUP PLC"
+    },
+    {
+        "ticker": "GRI",
+        "full_name": "GRAINGER PLC"
+    },
+    {
+        "ticker": "GVMH",
+        "full_name": "GRAND VISION MEDIA HOLDINGS PLC"
+    },
+    {
+        "ticker": "GTE",
+        "full_name": "GRAN TIERRA ENERGY INC."
+    },
+    {
+        "ticker": "GGP",
+        "full_name": "GREATLAND RESOURCES LIMITED"
+    },
+    {
+        "ticker": "GPE",
+        "full_name": "GREAT PORTLAND ESTATES PLC"
+    },
+    {
+        "ticker": "GSCU",
+        "full_name": "GREAT SOUTHERN COPPER PLC"
+    },
+    {
+        "ticker": "GWMO",
+        "full_name": "GREAT WESTERN MINING CORPORATION PLC"
+    },
+    {
+        "ticker": "GRP",
+        "full_name": "GREENCOAT RENEWABLES PLC"
+    },
+    {
+        "ticker": "UKW",
+        "full_name": "GREENCOAT UK WIND PLC"
+    },
+    {
+        "ticker": "GNC",
+        "full_name": "GREENCORE GROUP PLC"
+    },
+    {
+        "ticker": "GROC",
+        "full_name": "GREENROC STRATEGIC MATERIALS PLC"
+    },
+    {
+        "ticker": "GRX",
+        "full_name": "GREENX METALS LIMITED"
+    },
+    {
+        "ticker": "GRG",
+        "full_name": "GREGGS PLC"
+    },
+    {
+        "ticker": "GRID",
+        "full_name": "GRESHAM HOUSE ENERGY STORAGE FUND PLC"
+    },
+    {
+        "ticker": "GHV2",
+        "full_name": "GRESHAM HOUSE INCOME & GROWTH 2 VCT PLC"
+    },
+    {
+        "ticker": "GHV1",
+        "full_name": "GRESHAM HOUSE INCOME & GROWTH VCT PLC"
+    },
+    {
+        "ticker": "GV1A",
+        "full_name": "GRESHAM HOUSE RENEWABLE ENERGY VCT 1 PLC"
+    },
+    {
+        "ticker": "GV2A",
+        "full_name": "GRESHAM HOUSE RENEWABLE ENERGY VCT 2 PLC"
+    },
+    {
+        "ticker": "GFM",
+        "full_name": "GRIFFIN MINING LIMITED"
+    },
+    {
+        "ticker": "GRIT",
+        "full_name": "GRIT INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "GR1T",
+        "full_name": "GRIT REAL ESTATE INCOME GROUP LIMITED"
+    },
+    {
+        "ticker": "GRIO",
+        "full_name": "GROUND RENTS INCOME FUND PLC"
+    },
+    {
+        "ticker": "GSC",
+        "full_name": "GS CHAIN PLC"
+    },
+    {
+        "ticker": "GSK",
+        "full_name": "GSK PLC"
+    },
+    {
+        "ticker": "GST",
+        "full_name": "GSTECHNOLOGIES LTD"
+    },
+    {
+        "ticker": "GL",
+        "full_name": "GUARANTY TRUST HOLDING COMPANY PLC"
+    },
+    {
+        "ticker": "GMET",
+        "full_name": "GUARDIAN METAL RESOURCES PLC"
+    },
+    {
+        "ticker": "GVCT",
+        "full_name": "GUINNESS VCT PLC"
+    },
+    {
+        "ticker": "GKP",
+        "full_name": "GULF KEYSTONE PETROLEUM LTD"
+    },
+    {
+        "ticker": "GMS",
+        "full_name": "GULF MARINE SERVICES PLC"
+    },
+    {
+        "ticker": "GUN",
+        "full_name": "GUNSYND PLC"
+    },
+    {
+        "ticker": "HLN",
+        "full_name": "HALEON PLC"
+    },
+    {
+        "ticker": "HFD",
+        "full_name": "HALFORDS GROUP PLC"
+    },
+    {
+        "ticker": "HLMA",
+        "full_name": "HALMA PLC"
+    },
+    {
+        "ticker": "HAMA",
+        "full_name": "HAMAK GOLD LIMITED"
+    },
+    {
+        "ticker": "HMSO",
+        "full_name": "HAMMERSON PLC"
+    },
+    {
+        "ticker": "PB",
+        "full_name": "HANATOUR SERVICE INC."
+    },
+    {
+        "ticker": "AMAL",
+        "full_name": "HANETF ICAV"
+    },
+    {
+        "ticker": "PTAD",
+        "full_name": "HANETF II ICAV"
+    },
+    {
+        "ticker": "HAN",
+        "full_name": "HANSA INVESTMENT COMPANY LIMITED"
+    },
+    {
+        "ticker": "HSD",
+        "full_name": "HANSARD GLOBAL PLC"
+    },
+    {
+        "ticker": "HBR",
+        "full_name": "HARBOUR ENERGY PLC"
+    },
+    {
+        "ticker": "HVPD",
+        "full_name": "HARBOURVEST GLOBAL PRIVATE EQUITY LIMITED"
+    },
+    {
+        "ticker": "HDD",
+        "full_name": "HARDIDE PLC"
+    },
+    {
+        "ticker": "HREE",
+        "full_name": "HARENA RESOURCES PLC"
+    },
+    {
+        "ticker": "HHV",
+        "full_name": "HARGREAVE HALE AIM VCT PLC"
+    },
+    {
+        "ticker": "HSP",
+        "full_name": "HARGREAVES SERVICES PLC"
+    },
+    {
+        "ticker": "HMI",
+        "full_name": "HARVEST MINERALS LIMITED"
+    },
+    {
+        "ticker": "HWG",
+        "full_name": "HARWORTH GROUP PLC"
+    },
+    {
+        "ticker": "HAYD",
+        "full_name": "HAYDALE GRAPHENE INDUSTRIES PLC"
+    },
+    {
+        "ticker": "HAS",
+        "full_name": "HAYS PLC"
+    },
+    {
+        "ticker": "HEAD",
+        "full_name": "HEADLAM GROUP PLC"
+    },
+    {
+        "ticker": "HSM",
+        "full_name": "HEATH (SAMUEL) & SONS PLC"
+    },
+    {
+        "ticker": "HVT",
+        "full_name": "HEAVITREE BREWERY PLC"
+    },
+    {
+        "ticker": "HLCL",
+        "full_name": "HELICAL PLC"
+    },
+    {
+        "ticker": "HTWS",
+        "full_name": "HELIOS TOWERS PLC"
+    },
+    {
+        "ticker": "HUW",
+        "full_name": "HELIOS UNDERWRITING PLC"
+    },
+    {
+        "ticker": "HE1",
+        "full_name": "HELIUM ONE GLOBAL LTD"
+    },
+    {
+        "ticker": "HEX",
+        "full_name": "HELIX EXPLORATION PLC"
+    },
+    {
+        "ticker": "HELD",
+        "full_name": "HELLENIC DYNAMICS PLC"
+    },
+    {
+        "ticker": "OTES",
+        "full_name": "HELLENIC TELECOMMUNICATIONS ORGANIZATION S.A."
+    },
+    {
+        "ticker": "LQ",
+        "full_name": "HELLENIQ ENERGY HOLDINGS SOCIETE ANONYME"
+    },
+    {
+        "ticker": "HEMO",
+        "full_name": "HEMOGENYX PHARMACEUTICALS PLC"
+    },
+    {
+        "ticker": "HET",
+        "full_name": "HENDERSON EUROPEAN TRUST PLC"
+    },
+    {
+        "ticker": "HFEL",
+        "full_name": "HENDERSON FAR EAST INCOME LIMITED"
+    },
+    {
+        "ticker": "HHI",
+        "full_name": "HENDERSON HIGH INCOME TRUST PLC"
+    },
+    {
+        "ticker": "HINT",
+        "full_name": "HENDERSON INTERNATIONAL INCOME TRUST PLC"
+    },
+    {
+        "ticker": "IO",
+        "full_name": "HENDERSON SMALLER COMPANIES INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "HRI",
+        "full_name": "HERALD INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "HERC",
+        "full_name": "HERCULES PLC"
+    },
+    {
+        "ticker": "HGT",
+        "full_name": "HG CAPITAL TRUST PLC"
+    },
+    {
+        "ticker": "HICL",
+        "full_name": "HICL INFRASTRUCTURE PLC"
+    },
+    {
+        "ticker": "HID",
+        "full_name": "HIDONG ESTATE PLC"
+    },
+    {
+        "ticker": "HWC",
+        "full_name": "HIGHWAY CAPITAL PLC"
+    },
+    {
+        "ticker": "HIK",
+        "full_name": "HIKMA PHARMACEUTICALS PLC"
+    },
+    {
+        "ticker": "HILS",
+        "full_name": "HILL & SMITH PLC"
+    },
+    {
+        "ticker": "HFG",
+        "full_name": "HILTON FOOD GROUP PLC"
+    },
+    {
+        "ticker": "HSX",
+        "full_name": "HISCOX LTD"
+    },
+    {
+        "ticker": "GM",
+        "full_name": "HMS HYDRAULIC  MACHINES & SYSTEMS GROUP PLC"
+    },
+    {
+        "ticker": "HOC",
+        "full_name": "HOCHSCHILD MINING PLC"
+    },
+    {
+        "ticker": "BOWL",
+        "full_name": "HOLLYWOOD BOWL GROUP PLC"
+    },
+    {
+        "ticker": "HOME",
+        "full_name": "HOME REIT PLC"
+    },
+    {
+        "ticker": "HKLB",
+        "full_name": "HONG KONG LAND HOLDINGS LD"
+    },
+    {
+        "ticker": "HHPD",
+        "full_name": "HON HAI PRECISION INDUSTRY CO. LTD"
+    },
+    {
+        "ticker": "HOYE",
+        "full_name": "HONYE FINANCIAL SERVICES LIMITED"
+    },
+    {
+        "ticker": "HSW",
+        "full_name": "HOSTELWORLD GROUP PLC"
+    },
+    {
+        "ticker": "HWDN",
+        "full_name": "HOWDEN JOINERY GROUP PLC"
+    },
+    {
+        "ticker": "H50A",
+        "full_name": "HSBC ETFS PLC"
+    },
+    {
+        "ticker": "HAGE",
+        "full_name": "HSBC GLOBAL FUNDS ICAV"
+    },
+    {
+        "ticker": "HSBA",
+        "full_name": "HSBC HOLDINGS PLC"
+    },
+    {
+        "ticker": "HSS",
+        "full_name": "HSS HIRE GROUP PLC"
+    },
+    {
+        "ticker": "HAT",
+        "full_name": "H&T GROUP PLC"
+    },
+    {
+        "ticker": "HTSC",
+        "full_name": "HUATAI SECURITIES CO., LTD."
+    },
+    {
+        "ticker": "HUD",
+        "full_name": "HUDDLED GROUP PLC"
+    },
+    {
+        "ticker": "HTG",
+        "full_name": "HUNTING PLC"
+    },
+    {
+        "ticker": "HCM",
+        "full_name": "HUTCHMED (CHINA) LIMITED"
+    },
+    {
+        "ticker": "HVO",
+        "full_name": "HVIVO PLC"
+    },
+    {
+        "ticker": "HWA",
+        "full_name": "HWANGE COLLIERY COMPANY LIMITED"
+    },
+    {
+        "ticker": "HGEN",
+        "full_name": "HYDROGENONE CAPITAL GROWTH PLC"
+    },
+    {
+        "ticker": "HUI",
+        "full_name": "HYDROGEN UTOPIA INTERNATIONAL PLC"
+    },
+    {
+        "ticker": "IBST",
+        "full_name": "IBSTOCK PLC"
+    },
+    {
+        "ticker": "ICFG",
+        "full_name": "ICFG LIMITED"
+    },
+    {
+        "ticker": "ICGT",
+        "full_name": "ICG ENTERPRISE TRUST PLC"
+    },
+    {
+        "ticker": "LBOW",
+        "full_name": "ICG-LONGBOW SENIOR SECURED UK PROPERTY DEBT INVESTMENTS LIMITED"
+    },
+    {
+        "ticker": "ICON",
+        "full_name": "ICONIC LABS PLC"
+    },
+    {
+        "ticker": "IDOX",
+        "full_name": "IDOX PLC"
+    },
+    {
+        "ticker": "IGR",
+        "full_name": "IG DESIGN GROUP PLC"
+    },
+    {
+        "ticker": "IGG",
+        "full_name": "IG GROUP HOLDINGS PLC"
+    },
+    {
+        "ticker": "IKIV",
+        "full_name": "IKIGAI VENTURES LIMITED"
+    },
+    {
+        "ticker": "IKA",
+        "full_name": "ILIKA PLC"
+    },
+    {
+        "ticker": "IGE",
+        "full_name": "IMAGE SCAN HOLDINGS PLC"
+    },
+    {
+        "ticker": "IBAI",
+        "full_name": "IMAGING BIOMETRICS LIMITED"
+    },
+    {
+        "ticker": "IMC",
+        "full_name": "IMC EXPLORATION GROUP PLC"
+    },
+    {
+        "ticker": "DBMF",
+        "full_name": "IMGP"
+    },
+    {
+        "ticker": "IMI",
+        "full_name": "IMI PLC"
+    },
+    {
+        "ticker": "IMM",
+        "full_name": "IMMUPHARMA PLC"
+    },
+    {
+        "ticker": "IPX",
+        "full_name": "IMPAX ASSET MANAGEMENT GROUP PLC"
+    },
+    {
+        "ticker": "IEM",
+        "full_name": "IMPAX ENVIRONMENTAL MARKETS PLC"
+    },
+    {
+        "ticker": "IMB",
+        "full_name": "IMPERIAL BRANDS PLC"
+    },
+    {
+        "ticker": "INCH",
+        "full_name": "INCHCAPE PLC"
+    },
+    {
+        "ticker": "IGC",
+        "full_name": "INDIA CAPITAL GROWTH FUND LIMITED"
+    },
+    {
+        "ticker": "INDV",
+        "full_name": "INDIVIOR PLC"
+    },
+    {
+        "ticker": "INDI",
+        "full_name": "INDUS GAS LIMITED"
+    },
+    {
+        "ticker": "INF",
+        "full_name": "INFORMA PLC"
+    },
+    {
+        "ticker": "ING",
+        "full_name": "INGENTA PLC"
+    },
+    {
+        "ticker": "INLZ",
+        "full_name": "INLAND ZDP PLC"
+    },
+    {
+        "ticker": "INSG",
+        "full_name": "INSIG AI PLC"
+    },
+    {
+        "ticker": "SPEC",
+        "full_name": "INSPECS GROUP PLC"
+    },
+    {
+        "ticker": "IHC",
+        "full_name": "INSPIRATION HEALTHCARE GROUP PLC"
+    },
+    {
+        "ticker": "INSA",
+        "full_name": "INSPIRED PLC"
+    },
+    {
+        "ticker": "INSP",
+        "full_name": "INSPIRIT ENERGY HOLDINGS PLC"
+    },
+    {
+        "ticker": "IHP",
+        "full_name": "INTEGRAFIN HOLDINGS PLC"
+    },
+    {
+        "ticker": "IDHC",
+        "full_name": "INTEGRATED DIAGNOSTICS HOLDINGS PLC"
+    },
+    {
+        "ticker": "IGP",
+        "full_name": "INTERCEDE GROUP PLC"
+    },
+    {
+        "ticker": "IHG",
+        "full_name": "INTERCONTINENTAL HOTELS GROUP PLC"
+    },
+    {
+        "ticker": "ICG",
+        "full_name": "INTERMEDIATE CAPITAL GROUP PLC"
+    },
+    {
+        "ticker": "IBT",
+        "full_name": "INTERNATIONAL BIOTECHNOLOGY TRUST PLC"
+    },
+    {
+        "ticker": "IAG",
+        "full_name": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP S.A."
+    },
+    {
+        "ticker": "IPC",
+        "full_name": "INTERNATIONAL PAPER COMPANY"
+    },
+    {
+        "ticker": "IPF",
+        "full_name": "INTERNATIONAL PERSONAL FINANCE PLC"
+    },
+    {
+        "ticker": "INPP",
+        "full_name": "INTERNATIONAL PUBLIC PARTNERSHIPS LD"
+    },
+    {
+        "ticker": "IWG",
+        "full_name": "INTERNATIONAL WORKPLACE GROUP PLC"
+    },
+    {
+        "ticker": "ITRK",
+        "full_name": "INTERTEK GROUP PLC"
+    },
+    {
+        "ticker": "IIG",
+        "full_name": "INTUITIVE INVESTMENTS GROUP PLC"
+    },
+    {
+        "ticker": "IAD",
+        "full_name": "INVESCO ASIA DRAGON TRUST PLC"
+    },
+    {
+        "ticker": "BIPS",
+        "full_name": "INVESCO BOND INCOME PLUS LIMITED"
+    },
+    {
+        "ticker": "IGET",
+        "full_name": "INVESCO GLOBAL EQUITY INCOME TRUST PLC"
+    },
+    {
+        "ticker": "BUYB",
+        "full_name": "INVESCO MARKETS III PLC"
+    },
+    {
+        "ticker": "AT1",
+        "full_name": "INVESCO MARKETS II PLC"
+    },
+    {
+        "ticker": "C300",
+        "full_name": "INVESCO MARKETS PLC"
+    },
+    {
+        "ticker": "INAC",
+        "full_name": "INVESTACC GROUP LIMITED"
+    },
+    {
+        "ticker": "HA",
+        "full_name": "INVESTEC INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "INVP",
+        "full_name": "INVESTEC PLC"
+    },
+    {
+        "ticker": "INV",
+        "full_name": "INVESTMENT COMPANY PLC"
+    },
+    {
+        "ticker": "IES",
+        "full_name": "INVINITY ENERGY SYSTEMS PLC"
+    },
+    {
+        "ticker": "IOF",
+        "full_name": "IOFINA PLC"
+    },
+    {
+        "ticker": "IOM",
+        "full_name": "IOMART GROUP PLC"
+    },
+    {
+        "ticker": "IPO",
+        "full_name": "IP GROUP PLC"
+    },
+    {
+        "ticker": "IQE",
+        "full_name": "IQE PLC"
+    },
+    {
+        "ticker": "ICGC",
+        "full_name": "IRISH CONTINENTAL GROUP PLC"
+    },
+    {
+        "ticker": "IRON",
+        "full_name": "IRONVELD PLC"
+    },
+    {
+        "ticker": "AEGG",
+        "full_name": "ISHARES III PLC"
+    },
+    {
+        "ticker": "BRIC",
+        "full_name": "ISHARES II PLC"
+    },
+    {
+        "ticker": "AGED",
+        "full_name": "ISHARES IV PLC"
+    },
+    {
+        "ticker": "CORP",
+        "full_name": "ISHARES PLC"
+    },
+    {
+        "ticker": "CBE3",
+        "full_name": "ISHARES VII PLC"
+    },
+    {
+        "ticker": "COMM",
+        "full_name": "ISHARES VI PLC"
+    },
+    {
+        "ticker": "GB",
+        "full_name": "ISHARES V PUBLIC LIMITED COMPANY"
+    },
+    {
+        "ticker": "ITX",
+        "full_name": "ITACONIX PLC"
+    },
+    {
+        "ticker": "ITH",
+        "full_name": "ITHACA ENERGY PLC"
+    },
+    {
+        "ticker": "ITIM",
+        "full_name": "ITIM GROUP PLC"
+    },
+    {
+        "ticker": "ITM",
+        "full_name": "ITM POWER PLC"
+    },
+    {
+        "ticker": "ITV",
+        "full_name": "ITV PLC"
+    },
+    {
+        "ticker": "IXI",
+        "full_name": "IXICO PLC"
+    },
+    {
+        "ticker": "JADE",
+        "full_name": "JADE ROAD INVESTMENTS LIMITED"
+    },
+    {
+        "ticker": "JSE",
+        "full_name": "JADESTONE ENERGY PLC"
+    },
+    {
+        "ticker": "JHD",
+        "full_name": "JAMES HALSTEAD PLC"
+    },
+    {
+        "ticker": "JAN",
+        "full_name": "JANGADA MINES PLC"
+    },
+    {
+        "ticker": "JAAA",
+        "full_name": "JANUS HENDERSON TABULA FUND"
+    },
+    {
+        "ticker": "JAR",
+        "full_name": "JARDINE MATHESON HOLDINGS LD"
+    },
+    {
+        "ticker": "JIM",
+        "full_name": "JARVIS SECURITIES PLC"
+    },
+    {
+        "ticker": "JD.",
+        "full_name": "JD SPORTS FASHION PLC"
+    },
+    {
+        "ticker": "JEL",
+        "full_name": "JERSEY ELECTRICITY PLC"
+    },
+    {
+        "ticker": "JOG",
+        "full_name": "JERSEY OIL AND GAS PLC"
+    },
+    {
+        "ticker": "JET2",
+        "full_name": "JET2 PLC"
+    },
+    {
+        "ticker": "JMAT",
+        "full_name": "JOHNSON MATTHEY PLC"
+    },
+    {
+        "ticker": "JSG",
+        "full_name": "JOHNSON SERVICE GROUP PLC"
+    },
+    {
+        "ticker": "OT",
+        "full_name": "JOINT STOCK COMPANY NATIONAL ATOMIC COMPANY KAZATOMPROM"
+    },
+    {
+        "ticker": "JNEO",
+        "full_name": "JOURNEO PLC"
+    },
+    {
+        "ticker": "JPEL",
+        "full_name": "JPEL PRIVATE EQUITY LIMITED"
+    },
+    {
+        "ticker": "JAM",
+        "full_name": "JPMORGAN AMERICAN INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "JAGI",
+        "full_name": "JPMORGAN ASIA GROWTH & INCOME PLC"
+    },
+    {
+        "ticker": "JCGI",
+        "full_name": "JPMORGAN CHINA GROWTH & INCOME PLC"
+    },
+    {
+        "ticker": "JCH",
+        "full_name": "JPMORGAN CLAVERHOUSE INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "JEMA",
+        "full_name": "JPMORGAN EMERGING EUROPE, MIDDLE EAST & AFRICA SECURITIES PLC"
+    },
+    {
+        "ticker": "JMG",
+        "full_name": "JPMORGAN EMERGING MARKETS INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "BB3M",
+        "full_name": "JPMORGAN ETFS (IRELAND) ICAV"
+    },
+    {
+        "ticker": "JEDT",
+        "full_name": "JPMORGAN EUROPEAN DISCOVERY TRUST PLC"
+    },
+    {
+        "ticker": "JEGI",
+        "full_name": "JPMORGAN EUROPEAN GROWTH & INCOME PLC"
+    },
+    {
+        "ticker": "JARA",
+        "full_name": "JPMORGAN GLOBAL CORE REAL ASSETS LIMITED"
+    },
+    {
+        "ticker": "JEMI",
+        "full_name": "JPMORGAN GLOBAL EMERGING MARKETS INCOME TRUST PLC"
+    },
+    {
+        "ticker": "JGGI",
+        "full_name": "JPMORGAN GLOBAL GROWTH & INCOME PLC"
+    },
+    {
+        "ticker": "JII",
+        "full_name": "JPMORGAN INDIAN INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "JFJ",
+        "full_name": "JPMORGAN JAPANESE INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "JUGI",
+        "full_name": "JPMORGAN UK SMALL CAP GROWTH & INCOME PLC"
+    },
+    {
+        "ticker": "JUSC",
+        "full_name": "JPMORGAN US SMALLER CO. INV TST PLC"
+    },
+    {
+        "ticker": "QB",
+        "full_name": "JSC HALYK BANK"
+    },
+    {
+        "ticker": "JTC",
+        "full_name": "JTC PLC"
+    },
+    {
+        "ticker": "JLP",
+        "full_name": "JUBILEE METALS GROUP PLC"
+    },
+    {
+        "ticker": "JDG",
+        "full_name": "JUDGES SCIENTIFIC PLC"
+    },
+    {
+        "ticker": "JUP",
+        "full_name": "JUPITER FUND MANAGEMENT PLC"
+    },
+    {
+        "ticker": "JUST",
+        "full_name": "JUST GROUP PLC"
+    },
+    {
+        "ticker": "JZCP",
+        "full_name": "JZ CAPITAL PARTNERS LIMITED"
+    },
+    {
+        "ticker": "KBT",
+        "full_name": "K3 BUSINESS TECHNOLOGY GROUP PLC"
+    },
+    {
+        "ticker": "KNOS",
+        "full_name": "KAINOS GROUP PLC"
+    },
+    {
+        "ticker": "KAKU",
+        "full_name": "KAKUZI LD"
+    },
+    {
+        "ticker": "KNB",
+        "full_name": "KANABO GROUP PLC"
+    },
+    {
+        "ticker": "KDR",
+        "full_name": "KARELIAN DIAMOND RESOURCES PLC"
+    },
+    {
+        "ticker": "KAV",
+        "full_name": "KAVANGO RESOURCES PLC"
+    },
+    {
+        "ticker": "KZG",
+        "full_name": "KAZERA GLOBAL PLC"
+    },
+    {
+        "ticker": "KCR",
+        "full_name": "KCR RESIDENTIAL REIT PLC"
+    },
+    {
+        "ticker": "KEFI",
+        "full_name": "KEFI GOLD AND COPPER PLC"
+    },
+    {
+        "ticker": "KLR",
+        "full_name": "KELLER GROUP PLC"
+    },
+    {
+        "ticker": "KLSO",
+        "full_name": "KELSO GROUP HOLDINGS PLC"
+    },
+    {
+        "ticker": "KEN",
+        "full_name": "KENDRICK RESOURCES PLC"
+    },
+    {
+        "ticker": "KMR",
+        "full_name": "KENMARE RESOURCES PLC"
+    },
+    {
+        "ticker": "KRS",
+        "full_name": "KERAS RESOURCES PLC"
+    },
+    {
+        "ticker": "KYGA",
+        "full_name": "KERRY GROUP PLC"
+    },
+    {
+        "ticker": "KEYS",
+        "full_name": "KEYSTONE LAW GROUP PLC"
+    },
+    {
+        "ticker": "KPCA",
+        "full_name": "KEYSTONE POSITIVE CHANGE INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "KIBO",
+        "full_name": "KIBO ENERGY PLC"
+    },
+    {
+        "ticker": "KIE",
+        "full_name": "KIER GROUP PLC"
+    },
+    {
+        "ticker": "KGF",
+        "full_name": "KINGFISHER PLC"
+    },
+    {
+        "ticker": "KINO",
+        "full_name": "KINOVO PLC"
+    },
+    {
+        "ticker": "KIST",
+        "full_name": "KISTOS HOLDINGS PLC"
+    },
+    {
+        "ticker": "KITW",
+        "full_name": "KITWAVE GROUP PLC"
+    },
+    {
+        "ticker": "KGH",
+        "full_name": "KNIGHTS GROUP HOLDINGS PLC"
+    },
+    {
+        "ticker": "KOD",
+        "full_name": "KODAL MINERALS PLC"
+    },
+    {
+        "ticker": "KNM",
+        "full_name": "KONAMI GROUP CORPORATION"
+    },
+    {
+        "ticker": "KOO",
+        "full_name": "KOOTH PLC"
+    },
+    {
+        "ticker": "KP2",
+        "full_name": "KORE POTASH PLC"
+    },
+    {
+        "ticker": "KOS",
+        "full_name": "KOSMOS ENERGY LTD"
+    },
+    {
+        "ticker": "CHIN",
+        "full_name": "KRANESHARES ICAV"
+    },
+    {
+        "ticker": "KRM",
+        "full_name": "KRM22 PLC"
+    },
+    {
+        "ticker": "KMK",
+        "full_name": "KROMEK GROUP PLC"
+    },
+    {
+        "ticker": "KRPZ",
+        "full_name": "KROPZ PLC"
+    },
+    {
+        "ticker": "LRE",
+        "full_name": "LANCASHIRE HOLDINGS LIMITED"
+    },
+    {
+        "ticker": "LND",
+        "full_name": "LANDORE RESOURCES LIMITED"
+    },
+    {
+        "ticker": "LAND",
+        "full_name": "LAND SECURITIES GROUP PLC"
+    },
+    {
+        "ticker": "LOGP",
+        "full_name": "LANSDOWNE OIL & GAS PLC"
+    },
+    {
+        "ticker": "LTOD",
+        "full_name": "LARSEN AND TOUBRO LIMITED"
+    },
+    {
+        "ticker": "LTHM",
+        "full_name": "LATHAM (JAMES) PLC"
+    },
+    {
+        "ticker": "LWDB",
+        "full_name": "LAW DEBENTURE CORPORATION PLC"
+    },
+    {
+        "ticker": "LBG",
+        "full_name": "LBG MEDIA PLC"
+    },
+    {
+        "ticker": "LGEN",
+        "full_name": "LEGAL & GENERAL GROUP PLC"
+    },
+    {
+        "ticker": "AIAG",
+        "full_name": "LEGAL & GENERAL UCITS ETF PUBLIC LIMITED COMPANY"
+    },
+    {
+        "ticker": "LINV",
+        "full_name": "LENDINVEST PLC"
+    },
+    {
+        "ticker": "LEX",
+        "full_name": "LEXINGTON GOLD LTD"
+    },
+    {
+        "ticker": "IB",
+        "full_name": "LG ELECTRONICS INC"
+    },
+    {
+        "ticker": "LIFS",
+        "full_name": "LIFESAFE HOLDINGS PLC"
+    },
+    {
+        "ticker": "LABS",
+        "full_name": "LIFE SCIENCE REIT PLC"
+    },
+    {
+        "ticker": "LSAA",
+        "full_name": "LIFE SETTLEMENT ASSETS PLC"
+    },
+    {
+        "ticker": "LST",
+        "full_name": "LIGHT SCIENCE TECHNOLOGIES HOLDINGS PLC"
+    },
+    {
+        "ticker": "LIKE",
+        "full_name": "LIKEWISE GROUP PLC"
+    },
+    {
+        "ticker": "LTI",
+        "full_name": "LINDSELL TRAIN INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "BGEO",
+        "full_name": "LION FINANCE GROUP PLC"
+    },
+    {
+        "ticker": "LIO",
+        "full_name": "LIONTRUST ASSET MANAGEMENT PLC"
+    },
+    {
+        "ticker": "BOOK",
+        "full_name": "LITERACY CAPITAL PLC"
+    },
+    {
+        "ticker": "LIT",
+        "full_name": "LITIGATION CAPITAL MANAGEMENT LIMITED"
+    },
+    {
+        "ticker": "LIV",
+        "full_name": "LIVERMORE INVESTMENTS GROUP LIMITED"
+    },
+    {
+        "ticker": "LLOY",
+        "full_name": "LLOYDS BANKING GROUP PLC"
+    },
+    {
+        "ticker": "LMS",
+        "full_name": "LMS CAPITAL PLC"
+    },
+    {
+        "ticker": "LDG",
+        "full_name": "LOGISTICS DEVELOPMENT GROUP PLC"
+    },
+    {
+        "ticker": "LAS",
+        "full_name": "LONDON & ASSOCIATED PROPERTIES PLC"
+    },
+    {
+        "ticker": "LMP",
+        "full_name": "LONDONMETRIC PROPERTY PLC"
+    },
+    {
+        "ticker": "LSC",
+        "full_name": "LONDON SECURITY PLC"
+    },
+    {
+        "ticker": "LSEG",
+        "full_name": "LONDON STOCK EXCHANGE GROUP PLC"
+    },
+    {
+        "ticker": "LORD",
+        "full_name": "LORDS GROUP TRADING PLC"
+    },
+    {
+        "ticker": "LWI",
+        "full_name": "LOWLAND INVESTMENT COMPANY PLC"
+    },
+    {
+        "ticker": "LPA",
+        "full_name": "LPA GROUP PLC"
+    },
+    {
+        "ticker": "LSL",
+        "full_name": "LSL PROPERTY SERVICES PLC"
+    },
+    {
+        "ticker": "LUCE",
+        "full_name": "LUCECO PLC"
+    },
+    {
+        "ticker": "CACX",
+        "full_name": "LYXOR INTERNATIONAL ASSET MANAGEMENT"
+    },
+    {
+        "ticker": "MACA",
+        "full_name": "MAC ALPHA LIMITED"
+    },
+    {
+        "ticker": "MPO",
+        "full_name": "MACAU PROPERTY OPPORTUNITIES FUND LIMITED"
+    },
+    {
+        "ticker": "MACF",
+        "full_name": "MACFARLANE GROUP PLC"
+    },
+    {
+        "ticker": "MTEC",
+        "full_name": "MADE TECH GROUP PLC"
+    },
+    {
+        "ticker": "KQ",
+        "full_name": "MADINET NASR FOR HOUSING & DEVELOPMENT S.A.E."
+    },
+    {
+        "ticker": "MHID",
+        "full_name": "MAHINDRA & MAHINDRA LIMITED"
+    },
+    {
+        "ticker": "MAI",
+        "full_name": "MAINTEL HOLDINGS PLC"
+    },
+    {
+        "ticker": "MAJE",
+        "full_name": "MAJEDIE INVESTMENTS PLC"
+    },
+    {
+        "ticker": "MLVN",
+        "full_name": "MALVERN INTERNATIONAL PLC"
+    },
+    {
+        "ticker": "MNL",
+        "full_name": "MANCHESTER & LONDON INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "MDO",
+        "full_name": "MANDARIN ORIENTAL INTERNATIONAL LD"
+    },
+    {
+        "ticker": "IS",
+        "full_name": "MANDO MACHINERY CORPORATION"
+    },
+    {
+        "ticker": "EMG",
+        "full_name": "MAN GROUP PLC"
+    },
+    {
+        "ticker": "MANO",
+        "full_name": "MANOLETE PARTNERS PLC"
+    },
+    {
+        "ticker": "MFX",
+        "full_name": "MANX FINANCIAL GROUP PLC"
+    },
+    {
+        "ticker": "MAC",
+        "full_name": "MARECHALE CAPITAL PLC"
+    },
+    {
+        "ticker": "GOLB",
+        "full_name": "MARKET ACCESS"
+    },
+    {
+        "ticker": "MKS",
+        "full_name": "MARKS AND SPENCER GROUP PLC"
+    },
+    {
+        "ticker": "MRK",
+        "full_name": "MARKS ELECTRICAL GROUP PLC"
+    },
+    {
+        "ticker": "MRL",
+        "full_name": "MARLOWE PLC"
+    },
+    {
+        "ticker": "MSLH",
+        "full_name": "MARSHALLS PLC"
+    },
+    {
+        "ticker": "IP",
+        "full_name": "MARSTON'S PLC"
+    },
+    {
+        "ticker": "MAW",
+        "full_name": "MARUWA CO. LTD"
+    },
+    {
+        "ticker": "MAC3",
+        "full_name": "MARWYN ACQUISITION COMPANY III LIMITED"
+    },
+    {
+        "ticker": "MVI",
+        "full_name": "MARWYN VALUE INVESTORS LIMITED"
+    },
+    {
+        "ticker": "MAST",
+        "full_name": "MAST ENERGY DEVELOPMENTS PLC"
+    },
+    {
+        "ticker": "MIG3",
+        "full_name": "MAVEN INCOME AND GROWTH VCT 3 PLC"
+    },
+    {
+        "ticker": "MIG5",
+        "full_name": "MAVEN INCOME AND GROWTH VCT 5 PLC"
+    },
+    {
+        "ticker": "MAV4",
+        "full_name": "MAVEN INCOME & GROWTH VCT 4 PLC"
+    },
+    {
+        "ticker": "MIG1",
+        "full_name": "MAVEN INCOME & GROWTH VCT PLC"
+    },
+    {
+        "ticker": "MRV",
+        "full_name": "MAVEN RENOVAR VCT PLC"
+    },
+    {
+        "ticker": "MCB",
+        "full_name": "MCBRIDE PLC"
+    },
+    {
+        "ticker": "MCLS",
+        "full_name": "MCCOLL'S RETAIL GROUP PLC"
+    },
+    {
+        "ticker": "SAA",
+        "full_name": "M&C SAATCHI PLC"
+    },
+    {
+        "ticker": "MER",
+        "full_name": "MEARS GROUP PLC"
+    },
+    {
+        "ticker": "MCI",
+        "full_name": "MEDCAW INVESTMENTS PLC"
+    },
+    {
+        "ticker": "MDZ",
+        "full_name": "MEDIAZEST PLC"
+    },
+    {
+        "ticker": "MEGP",
+        "full_name": "ME GROUP INTERNATIONAL PLC"
+    },
+    {
+        "ticker": "MIK",
+        "full_name": "MEIKLES LIMITED"
+    },
+    {
+        "ticker": "MRO",
+        "full_name": "MELROSE INDUSTRIES PLC"
+    },
+    {
+        "ticker": "MHN",
+        "full_name": "MENHADEN RESOURCE EFFICIENCY PLC"
+    },
+    {
+        "ticker": "MRC",
+        "full_name": "MERCANTILE INVESTMENT TRUST (THE) PLC"
+    },
+    {
+        "ticker": "MPL",
+        "full_name": "MERCANTILE PORTS & LOGISTICS LIMITED"
+    },
+    {
+        "ticker": "HN",
+        "full_name": "MERCHANTS TRUST PLC"
+    },
+    {
+        "ticker": "MERC",
+        "full_name": "MERCIA ASSET MANAGEMENT PLC"
+    },
+    {
+        "ticker": "MTL",
+        "full_name": "METALS EXPLORATION PLC"
+    },
+    {
+        "ticker": "MET1",
+        "full_name": "METALS ONE PLC"
+    },
+    {
+        "ticker": "MET",
+        "full_name": "METIR PLC"
+    },
+    {
+        "ticker": "MTRO",
+        "full_name": "METRO BANK HOLDINGS PLC"
+    },
+    {
+        "ticker": "MGCI",
+        "full_name": "M&G CREDIT INCOME INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "MNG",
+        "full_name": "M&G PLC"
+    },
+    {
+        "ticker": "MHA",
+        "full_name": "MHA PLC"
+    },
+    {
+        "ticker": "HT",
+        "full_name": "MHP SE"
+    },
+    {
+        "ticker": "MBH",
+        "full_name": "MICHELMERSH BRICK HOLDINGS PLC"
+    },
+    {
+        "ticker": "SAAS",
+        "full_name": "MICROLISE GROUP PLC"
+    },
+    {
+        "ticker": "SALT",
+        "full_name": "MICROSALT PLC"
+    },
+    {
+        "ticker": "MCT",
+        "full_name": "MIDDLEFIELD CANADIAN INCOME PCC"
+    },
+    {
+        "ticker": "MIDW",
+        "full_name": "MIDWICH GROUP PLC"
+    },
+    {
+        "ticker": "MWY",
+        "full_name": "MID-WYND INTERNATIONAL INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "MIGO",
+        "full_name": "MIGO OPPORTUNITIES TRUST PLC"
+    },
+    {
+        "ticker": "MILA",
+        "full_name": "MILA RESOURCES PLC"
+    },
+    {
+        "ticker": "MII",
+        "full_name": "MILTON CAPITAL PLC"
+    },
+    {
+        "ticker": "MCON",
+        "full_name": "MINCON GROUP PLC"
+    },
+    {
+        "ticker": "MFAI",
+        "full_name": "MINDFLAIR PLC"
+    },
+    {
+        "ticker": "MIND",
+        "full_name": "MIND GYM PLC"
+    },
+    {
+        "ticker": "MAFL",
+        "full_name": "MINERAL & FINANCIAL INVESTMENTS LIMITED"
+    },
+    {
+        "ticker": "MYSE",
+        "full_name": "MING YANG SMART ENERGY GROUP LIMITED"
+    },
+    {
+        "ticker": "MIN",
+        "full_name": "MINOAN GROUP PLC"
+    },
+    {
+        "ticker": "MIRI",
+        "full_name": "MIRRIAD ADVERTISING PLC"
+    },
+    {
+        "ticker": "MAB",
+        "full_name": "MITCHELLS & BUTLERS PLC"
+    },
+    {
+        "ticker": "MTO",
+        "full_name": "MITIE GROUP PLC"
+    },
+    {
+        "ticker": "MINA",
+        "full_name": "MITON UK MICROCAP TRUST PLC"
+    },
+    {
+        "ticker": "GLE",
+        "full_name": "MJ GLEESON PLC"
+    },
+    {
+        "ticker": "MKA",
+        "full_name": "MKANGO RESOURCES LTD"
+    },
+    {
+        "ticker": "MCG",
+        "full_name": "MOBICO GROUP PLC"
+    },
+    {
+        "ticker": "MOS",
+        "full_name": "MOBILE STREAMS PLC"
+    },
+    {
+        "ticker": "MBT",
+        "full_name": "MOBILE TORNADO GROUP PLC"
+    },
+    {
+        "ticker": "MBO",
+        "full_name": "MOBILITYONE LIMITED"
+    },
+    {
+        "ticker": "MMIT",
+        "full_name": "MOBIUS INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "MOH",
+        "full_name": "MOH NIPPON PLC"
+    },
+    {
+        "ticker": "GROW",
+        "full_name": "MOLTEN VENTURES PLC"
+    },
+    {
+        "ticker": "MVCT",
+        "full_name": "MOLTEN VENTURES VCT PLC"
+    },
+    {
+        "ticker": "MNDI",
+        "full_name": "MONDI PLC"
+    },
+    {
+        "ticker": "MNKS",
+        "full_name": "MONKS INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "MTE",
+        "full_name": "MONTANARO EUROPEAN SMALLER C. TST PLC"
+    },
+    {
+        "ticker": "MTU",
+        "full_name": "MONTANARO UK SMALLER COMPANIES INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "MONY",
+        "full_name": "MONY GROUP PLC"
+    },
+    {
+        "ticker": "MOON",
+        "full_name": "MOONPIG GROUP PLC"
+    },
+    {
+        "ticker": "BA05",
+        "full_name": "MORGAN ADVANCED MATERIALS PLC"
+    },
+    {
+        "ticker": "MGNS",
+        "full_name": "MORGAN SINDALL GROUP PLC"
+    },
+    {
+        "ticker": "MAB1",
+        "full_name": "MORTGAGE ADVICE BUREAU (HOLDINGS) PLC"
+    },
+    {
+        "ticker": "MSMN",
+        "full_name": "MOSMAN OIL AND GAS LIMITED"
+    },
+    {
+        "ticker": "MTC",
+        "full_name": "MOTHERCARE PLC"
+    },
+    {
+        "ticker": "MOTR",
+        "full_name": "MOTORPOINT GROUP PLC"
+    },
+    {
+        "ticker": "MTVW",
+        "full_name": "MOUNTVIEW ESTATES PLC"
+    },
+    {
+        "ticker": "MPAC",
+        "full_name": "MPAC GROUP PLC"
+    },
+    {
+        "ticker": "MPE",
+        "full_name": "M.P. EVANS GROUP PLC"
+    },
+    {
+        "ticker": "MSI",
+        "full_name": "MS INTERNATIONAL PLC"
+    },
+    {
+        "ticker": "MWE",
+        "full_name": "MTI WIRELESS EDGE LTD."
+    },
+    {
+        "ticker": "MUL",
+        "full_name": "MULBERRY GROUP PLC"
+    },
+    {
+        "ticker": "CNAA",
+        "full_name": "MULTI UNITS FRANCE"
+    },
+    {
+        "ticker": "D",
+        "full_name": "MULTI UNITS LUXEMBOURG"
+    },
+    {
+        "ticker": "MUT",
+        "full_name": "MURRAY INCOME TRUST PLC"
+    },
+    {
+        "ticker": "MYI",
+        "full_name": "MURRAY INTERNATIONAL TRUST PLC"
+    },
+    {
+        "ticker": "WINK",
+        "full_name": "M WINKWORTH PLC"
+    },
+    {
+        "ticker": "MYX",
+        "full_name": "MYCELX TECHNOLOGIES CORPORATION"
+    },
+    {
+        "ticker": "MHC",
+        "full_name": "MYHEALTHCHECKED PLC"
+    },
+    {
+        "ticker": "N4P",
+        "full_name": "N4 PHARMA PLC"
+    },
+    {
+        "ticker": "NAH",
+        "full_name": "NAHL GROUP PLC"
+    },
+    {
+        "ticker": "WINE",
+        "full_name": "NAKED WINES PLC"
+    },
+    {
+        "ticker": "NANO",
+        "full_name": "NANOCO GROUP PLC"
+    },
+    {
+        "ticker": "NARF",
+        "full_name": "NARF INDUSTRIES PLC"
+    },
+    {
+        "ticker": "NG.",
+        "full_name": "NATIONAL GRID PLC"
+    },
+    {
+        "ticker": "NBS",
+        "full_name": "NATIONWIDE BUILDING SOCIETY"
+    },
+    {
+        "ticker": "NTVO",
+        "full_name": "NATIVO RESOURCES PLC"
+    },
+    {
+        "ticker": "NWG",
+        "full_name": "NATWEST GROUP PLC"
+    },
+    {
+        "ticker": "NBDD",
+        "full_name": "NB DISTRESSED DEBT INVESTMENT FUND LIMITED"
+    },
+    {
+        "ticker": "NBPE",
+        "full_name": "NB PRIVATE EQUITY PARTNERS LIMITED"
+    },
+    {
+        "ticker": "NCC",
+        "full_name": "NCC GROUP PLC"
+    },
+    {
+        "ticker": "NEO",
+        "full_name": "NEO ENERGY METALS PLC"
+    },
+    {
+        "ticker": "NET",
+        "full_name": "NETCALL PLC"
+    },
+    {
+        "ticker": "NZI",
+        "full_name": "NET ZERO INFRASTRUCTURE PLC"
+    },
+    {
+        "ticker": "NFM",
+        "full_name": "NEW FRONTIER MINERALS LIMITED"
+    },
+    {
+        "ticker": "NWT",
+        "full_name": "NEWMARK SECURITY PLC"
+    },
+    {
+        "ticker": "NRR",
+        "full_name": "NEWRIVER REIT PLC"
+    },
+    {
+        "ticker": "NSI",
+        "full_name": "NEW STAR INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "NFG",
+        "full_name": "NEXT 15 GROUP PLC"
+    },
+    {
+        "ticker": "NESF",
+        "full_name": "NEXTENERGY SOLAR FUND LIMITED"
+    },
+    {
+        "ticker": "NXQ",
+        "full_name": "NEXTEQ PLC"
+    },
+    {
+        "ticker": "NXT",
+        "full_name": "NEXT PLC"
+    },
+    {
+        "ticker": "NEXS",
+        "full_name": "NEXUS INFRASTRUCTURE PLC"
+    },
+    {
+        "ticker": "NICL",
+        "full_name": "NICHOLS PLC"
+    },
+    {
+        "ticker": "N91",
+        "full_name": "NINETY ONE PLC"
+    },
+    {
+        "ticker": "NIOX",
+        "full_name": "NIOX GROUP PLC"
+    },
+    {
+        "ticker": "NAVF",
+        "full_name": "NIPPON ACTIVE VALUE FUND PLC"
+    },
+    {
+        "ticker": "NXR",
+        "full_name": "NORCROS PLC"
+    },
+    {
+        "ticker": "NBB",
+        "full_name": "NORMAN BROADBENT PLC"
+    },
+    {
+        "ticker": "NAR",
+        "full_name": "NORTHAMBER PLC"
+    },
+    {
+        "ticker": "NAIT",
+        "full_name": "NORTH AMERICAN INCOME TRUST (THE) PLC"
+    },
+    {
+        "ticker": "NAS",
+        "full_name": "NORTH ATLANTIC SMALLER COMPANIES INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "CODE",
+        "full_name": "NORTHCODERS GROUP PLC"
+    },
+    {
+        "ticker": "NTV",
+        "full_name": "NORTHERN 2 VCT PLC"
+    },
+    {
+        "ticker": "NTN",
+        "full_name": "NORTHERN 3 VCT PLC"
+    },
+    {
+        "ticker": "NTBR",
+        "full_name": "NORTHERN BEAR PLC"
+    },
+    {
+        "ticker": "NTEA",
+        "full_name": "NORTHERN ELECTRIC PLC"
+    },
+    {
+        "ticker": "NVT",
+        "full_name": "NORTHERN VENTURE TRUST PLC"
+    },
+    {
+        "ticker": "NOG",
+        "full_name": "NOSTRUM OIL & GAS PLC"
+    },
+    {
+        "ticker": "NCYT",
+        "full_name": "NOVACYT S.A."
+    },
+    {
+        "ticker": "VX",
+        "full_name": "NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA"
+    },
+    {
+        "ticker": "NFX",
+        "full_name": "NUFORMIX PLC"
+    },
+    {
+        "ticker": "NWF",
+        "full_name": "NWF GROUP PLC"
+    },
+    {
+        "ticker": "OCI",
+        "full_name": "OAKLEY CAPITAL INVESTMENTS LIMITED"
+    },
+    {
+        "ticker": "OVCT",
+        "full_name": "OBERON AIM VCT PLC"
+    },
+    {
+        "ticker": "OCDO",
+        "full_name": "OCADO GROUP PLC"
+    },
+    {
+        "ticker": "OHT",
+        "full_name": "OCEAN HARVEST TECHNOLOGY GROUP PLC"
+    },
+    {
+        "ticker": "OCN",
+        "full_name": "OCEAN WILSONS (HOLDINGS) LD"
+    },
+    {
+        "ticker": "OSEC",
+        "full_name": "OCTOPUS AIM VCT 2 PLC"
+    },
+    {
+        "ticker": "OOA",
+        "full_name": "OCTOPUS AIM VCT PLC"
+    },
+    {
+        "ticker": "OAP3",
+        "full_name": "OCTOPUS APOLLO VCT PLC"
+    },
+    {
+        "ticker": "OFG",
+        "full_name": "OCTOPUS FUTURE GENERATIONS VCT PLC"
+    },
+    {
+        "ticker": "ORIT",
+        "full_name": "OCTOPUS RENEWABLES INFRASTRUCTURE TRUST PLC"
+    },
+    {
+        "ticker": "OTV2",
+        "full_name": "OCTOPUS TITAN VCT PLC"
+    },
+    {
+        "ticker": "OIT",
+        "full_name": "ODYSSEAN INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "OC",
+        "full_name": "OIL AND GAS DEVELOPMENT COMPANY LIMITED"
+    },
+    {
+        "ticker": "OMU",
+        "full_name": "OLD MUTUAL LIMITED"
+    },
+    {
+        "ticker": "OBI",
+        "full_name": "ONDINE BIOMEDICAL INC."
+    },
+    {
+        "ticker": "ONDO",
+        "full_name": "ONDO INSURTECH PLC"
+    },
+    {
+        "ticker": "OHGR",
+        "full_name": "ONE HEALTH GROUP PLC"
+    },
+    {
+        "ticker": "OMIP",
+        "full_name": "ONE MEDIA IP GROUP PLC"
+    },
+    {
+        "ticker": "OTB",
+        "full_name": "ON THE BEACH GROUP PLC"
+    },
+    {
+        "ticker": "ONWD",
+        "full_name": "ONWARD OPPORTUNITIES LIMITED"
+    },
+    {
+        "ticker": "OPG",
+        "full_name": "OPG POWER VENTURES PLC"
+    },
+    {
+        "ticker": "OPTI",
+        "full_name": "OPTIBIOTIX HEALTH PLC"
+    },
+    {
+        "ticker": "OPT",
+        "full_name": "OPTIMA HEALTH PLC"
+    },
+    {
+        "ticker": "ORCP",
+        "full_name": "ORACLE POWER PLC"
+    },
+    {
+        "ticker": "OIH",
+        "full_name": "ORASCOM INVESTMENT HOLDING S.A.E"
+    },
+    {
+        "ticker": "ORCA",
+        "full_name": "ORCADIAN ENERGY PLC"
+    },
+    {
+        "ticker": "ORCH",
+        "full_name": "ORCHARD FUNDING GROUP PLC"
+    },
+    {
+        "ticker": "ORNT",
+        "full_name": "ORIENT TELECOMS PLC"
+    },
+    {
+        "ticker": "OGN",
+        "full_name": "ORIGIN ENTERPRISES PLC"
+    },
+    {
+        "ticker": "ORR",
+        "full_name": "ORIOLE RESOURCES PLC"
+    },
+    {
+        "ticker": "OMI",
+        "full_name": "OROSUR MINING INC"
+    },
+    {
+        "ticker": "OIG",
+        "full_name": "ORYX INTERNATIONAL GROWTH FUND LTD"
+    },
+    {
+        "ticker": "OSB",
+        "full_name": "OSB GROUP PLC"
+    },
+    {
+        "ticker": "HED",
+        "full_name": "OSSIAM IRL ICAV"
+    },
+    {
+        "ticker": "OGU",
+        "full_name": "OSSIAM LUX"
+    },
+    {
+        "ticker": "OTPD",
+        "full_name": "OTP BANK PLC"
+    },
+    {
+        "ticker": "OVB",
+        "full_name": "OVOCA BIO PLC"
+    },
+    {
+        "ticker": "OBD",
+        "full_name": "OXFORD BIODYNAMICS PLC"
+    },
+    {
+        "ticker": "OXB",
+        "full_name": "OXFORD BIOMEDICA PLC"
+    },
+    {
+        "ticker": "OXIG",
+        "full_name": "OXFORD INSTRUMENTS PLC"
+    },
+    {
+        "ticker": "OMG",
+        "full_name": "OXFORD METRICS PLC"
+    },
+    {
+        "ticker": "ONT",
+        "full_name": "OXFORD NANOPORE TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "OT1",
+        "full_name": "OXFORD TECHNOLOGY 2 VENTURE CAPITAL TRUST PLC"
+    },
+    {
+        "ticker": "CALF",
+        "full_name": "PACER ETFS ICAV"
+    },
+    {
+        "ticker": "PAC",
+        "full_name": "PACIFIC ASSETS TRUST PLC"
+    },
+    {
+        "ticker": "PCH",
+        "full_name": "PACIFIC GLOBAL HOLDINGS PLC"
+    },
+    {
+        "ticker": "PHI",
+        "full_name": "PACIFIC HORIZON INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "PACS",
+        "full_name": "PACSCO LIMITED"
+    },
+    {
+        "ticker": "PAGE",
+        "full_name": "PAGEGROUP PLC"
+    },
+    {
+        "ticker": "PCA",
+        "full_name": "PALACE CAPITAL PLC"
+    },
+    {
+        "ticker": "PAF",
+        "full_name": "PAN AFRICAN RESOURCES PLC"
+    },
+    {
+        "ticker": "PINT",
+        "full_name": "PANTHEON INFRASTRUCTURE PLC"
+    },
+    {
+        "ticker": "PIN",
+        "full_name": "PANTHEON INTERNATIONAL PLC"
+    },
+    {
+        "ticker": "PANR",
+        "full_name": "PANTHEON RESOURCES PLC"
+    },
+    {
+        "ticker": "PAT",
+        "full_name": "PANTHERA RESOURCES PLC"
+    },
+    {
+        "ticker": "PALM",
+        "full_name": "PANTHER METALS PLC"
+    },
+    {
+        "ticker": "PNS",
+        "full_name": "PANTHER SECURITIES PLC"
+    },
+    {
+        "ticker": "PAG",
+        "full_name": "PARAGON BANKING GROUP PLC"
+    },
+    {
+        "ticker": "PMG",
+        "full_name": "PARKMEAD GROUP (THE) PLC"
+    },
+    {
+        "ticker": "PEY",
+        "full_name": "PARTNERS GROUP PRIVATE EQUITY LIMITED"
+    },
+    {
+        "ticker": "PPET",
+        "full_name": "PATRIA PRIVATE EQUITY TRUST PLC"
+    },
+    {
+        "ticker": "PAY",
+        "full_name": "PAYPOINT PLC"
+    },
+    {
+        "ticker": "PCIP",
+        "full_name": "PCI-PAL PLC"
+    },
+    {
+        "ticker": "PSON",
+        "full_name": "PEARSON PLC"
+    },
+    {
+        "ticker": "PEB",
+        "full_name": "PEBBLE BEACH SYSTEMS GROUP PLC"
+    },
+    {
+        "ticker": "PEEL",
+        "full_name": "PEEL HUNT LIMITED"
+    },
+    {
+        "ticker": "PEMB",
+        "full_name": "PEMBROKE VCT PLC"
+    },
+    {
+        "ticker": "PEN",
+        "full_name": "PENNANT INTERNATIONAL GROUP PLC"
+    },
+    {
+        "ticker": "PNN",
+        "full_name": "PENNON GROUP PLC"
+    },
+    {
+        "ticker": "PPP",
+        "full_name": "PENNPETRO ENERGY PLC"
+    },
+    {
+        "ticker": "PRE",
+        "full_name": "PENSANA PLC"
+    },
+    {
+        "ticker": "PBEE",
+        "full_name": "PENSIONBEE GROUP PLC"
+    },
+    {
+        "ticker": "PTSB",
+        "full_name": "PERMANENT TSB GROUP HOLDINGS PLC"
+    },
+    {
+        "ticker": "PSH",
+        "full_name": "PERSHING SQUARE HOLDINGS LTD"
+    },
+    {
+        "ticker": "PSN",
+        "full_name": "PERSIMMON PLC"
+    },
+    {
+        "ticker": "PNL",
+        "full_name": "PERSONAL ASSETS TRUST PLC"
+    },
+    {
+        "ticker": "PGH",
+        "full_name": "PERSONAL GROUP HOLDINGS PLC"
+    },
+    {
+        "ticker": "PEG",
+        "full_name": "PETARDS GROUP PLC"
+    },
+    {
+        "ticker": "PHLL",
+        "full_name": "PETERSHILL PARTNERS PLC"
+    },
+    {
+        "ticker": "PDL",
+        "full_name": "PETRA DIAMONDS LIMITED"
+    },
+    {
+        "ticker": "PET",
+        "full_name": "PETREL RESOURCES PLC"
+    },
+    {
+        "ticker": "PFC",
+        "full_name": "PETROFAC LIMITED"
+    },
+    {
+        "ticker": "MATD",
+        "full_name": "PETRO MATAD LIMITED"
+    },
+    {
+        "ticker": "PTAL",
+        "full_name": "PETROTAL CORPORATION"
+    },
+    {
+        "ticker": "PETS",
+        "full_name": "PETS AT HOME GROUP PLC"
+    },
+    {
+        "ticker": "PHAR",
+        "full_name": "PHAROS ENERGY PLC"
+    },
+    {
+        "ticker": "PXC",
+        "full_name": "PHOENIX COPPER LIMITED"
+    },
+    {
+        "ticker": "PHNX",
+        "full_name": "PHOENIX GROUP HOLDINGS PLC"
+    },
+    {
+        "ticker": "PSDL",
+        "full_name": "PHOENIX SPREE DEUTSCHLAND LIMITED"
+    },
+    {
+        "ticker": "PHSC",
+        "full_name": "PHSC PLC"
+    },
+    {
+        "ticker": "PYC",
+        "full_name": "PHYSIOMICS PLC"
+    },
+    {
+        "ticker": "PCTN",
+        "full_name": "PICTON PROPERTY INCOME LD"
+    },
+    {
+        "ticker": "EMLB",
+        "full_name": "PIMCO ETFS PUBLIC LIMITED COMPANY"
+    },
+    {
+        "ticker": "PNPL",
+        "full_name": "PINEAPPLE POWER CORPORATION PLC"
+    },
+    {
+        "ticker": "PINE",
+        "full_name": "PINEWOOD TECHNOLOGIES GROUP PLC"
+    },
+    {
+        "ticker": "PIP",
+        "full_name": "PIPEHAWK PLC"
+    },
+    {
+        "ticker": "NC",
+        "full_name": "PJSC PHOSAGRO"
+    },
+    {
+        "ticker": "ATAD",
+        "full_name": "PJSC TATNEFT"
+    },
+    {
+        "ticker": "PTEC",
+        "full_name": "PLAYTECH PLC"
+    },
+    {
+        "ticker": "PLAZ",
+        "full_name": "PLAZA CENTERS N.V."
+    },
+    {
+        "ticker": "POS",
+        "full_name": "PLEXUS HOLDINGS PLC"
+    },
+    {
+        "ticker": "PLUS",
+        "full_name": "PLUS500 LTD"
+    },
+    {
+        "ticker": "PMGZ",
+        "full_name": "PMGR SECURITIES 2025 PLC"
+    },
+    {
+        "ticker": "PODP",
+        "full_name": "POD POINT GROUP HOLDINGS PLC"
+    },
+    {
+        "ticker": "PCFT",
+        "full_name": "POLAR CAPITAL GLOBAL FINANCIALS TRUST PLC"
+    },
+    {
+        "ticker": "PCGH",
+        "full_name": "POLAR CAPITAL GLOBAL HEALTHCARE TRUST PLC"
+    },
+    {
+        "ticker": "POLR",
+        "full_name": "POLAR CAPITAL HOLDINGS PLC"
+    },
+    {
+        "ticker": "PCT",
+        "full_name": "POLAR CAPITAL TECHNOLOGY TRUST PLC"
+    },
+    {
+        "ticker": "POLX",
+        "full_name": "POLAREAN IMAGING PLC"
+    },
+    {
+        "ticker": "POLN",
+        "full_name": "POLLEN STREET GROUP LIMITED"
+    },
+    {
+        "ticker": "POLB",
+        "full_name": "POOLBEG PHARMA PLC"
+    },
+    {
+        "ticker": "PMP",
+        "full_name": "PORTMEIRION GROUP PLC"
+    },
+    {
+        "ticker": "PRV",
+        "full_name": "PORVAIR PLC"
+    },
+    {
+        "ticker": "PHE",
+        "full_name": "POWERHOUSE ENERGY GROUP PLC"
+    },
+    {
+        "ticker": "POW",
+        "full_name": "POWER METAL RESOURCES PLC"
+    },
+    {
+        "ticker": "PPH",
+        "full_name": "PPHE HOTEL GROUP LIMITED"
+    },
+    {
+        "ticker": "PGV",
+        "full_name": "PRAETURA GROWTH VCT PLC"
+    },
+    {
+        "ticker": "PRD",
+        "full_name": "PREDATOR OIL & GAS HOLDINGS PLC"
+    },
+    {
+        "ticker": "PREM",
+        "full_name": "PREMIER AFRICAN MINERALS LIMITED"
+    },
+    {
+        "ticker": "PFD",
+        "full_name": "PREMIER FOODS PLC"
+    },
+    {
+        "ticker": "PMGR",
+        "full_name": "PREMIER MITON GLOBAL RENEWABLES TRUST PLC"
+    },
+    {
+        "ticker": "PMI",
+        "full_name": "PREMIER MITON GROUP PLC"
+    },
+    {
+        "ticker": "PR1",
+        "full_name": "PRI0R1TY INTELLIGENCE GROUP PLC"
+    },
+    {
+        "ticker": "PHP",
+        "full_name": "PRIMARY HEALTH PROPERTIES PLC"
+    },
+    {
+        "ticker": "PRIM",
+        "full_name": "PRIMORUS INVESTMENTS PLC"
+    },
+    {
+        "ticker": "PRIS",
+        "full_name": "PRISTINE CAPITAL PLC"
+    },
+    {
+        "ticker": "PROC",
+        "full_name": "PROCOOK GROUP PLC"
+    },
+    {
+        "ticker": "TPFG",
+        "full_name": "PROPERTY FRANCHISE GROUP PLC (THE)"
+    },
+    {
+        "ticker": "PXEN",
+        "full_name": "PROSPEX ENERGY PLC"
+    },
+    {
+        "ticker": "PRM",
+        "full_name": "PROTEOME SCIENCES PLC"
+    },
+    {
+        "ticker": "PGOO",
+        "full_name": "PROVEN GROWTH & INCOME VCT PLC"
+    },
+    {
+        "ticker": "PVN",
+        "full_name": "PROVEN VCT PLC"
+    },
+    {
+        "ticker": "PXS",
+        "full_name": "PROVEXIS PLC"
+    },
+    {
+        "ticker": "PRSR",
+        "full_name": "PRS REIT (THE) PLC"
+    },
+    {
+        "ticker": "PRU",
+        "full_name": "PRUDENTIAL PLC"
+    },
+    {
+        "ticker": "FG",
+        "full_name": "PUBLIC JOINT STOCK COMPANY NOVOROSSIYSK COMMERCIAL SEA PORT"
+    },
+    {
+        "ticker": "RKMD",
+        "full_name": "PUBLIC JOINT-STOCK COMPANY ROSTELECOM"
+    },
+    {
+        "ticker": "PPHC",
+        "full_name": "PUBLIC POLICY HOLDING COMPANY, INC."
+    },
+    {
+        "ticker": "PULS",
+        "full_name": "PULSAR GROUP PLC"
+    },
+    {
+        "ticker": "PLSR",
+        "full_name": "PULSAR HELIUM INC."
+    },
+    {
+        "ticker": "PAIM",
+        "full_name": "PUMA AIM VCT PLC"
+    },
+    {
+        "ticker": "PUAL",
+        "full_name": "PUMA ALPHA VCT PLC"
+    },
+    {
+        "ticker": "PU13",
+        "full_name": "PUMA VCT 13 PLC"
+    },
+    {
+        "ticker": "PRTC",
+        "full_name": "PURETECH HEALTH PLC"
+    },
+    {
+        "ticker": "PYX",
+        "full_name": "PYX RESOURCES LIMITED"
+    },
+    {
+        "ticker": "PZC",
+        "full_name": "PZ CUSSONS PLC"
+    },
+    {
+        "ticker": "QQ.",
+        "full_name": "QINETIQ GROUP PLC"
+    },
+    {
+        "ticker": "QED",
+        "full_name": "QUADRISE PLC"
+    },
+    {
+        "ticker": "QUBE",
+        "full_name": "QUANTUM BASE HOLDINGS PLC"
+    },
+    {
+        "ticker": "QBT",
+        "full_name": "QUANTUM BLOCKCHAIN TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "QTX",
+        "full_name": "QUARTIX TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "QLT",
+        "full_name": "QUILTER PLC"
+    },
+    {
+        "ticker": "MODE",
+        "full_name": "R8 CAPITAL INVESTMENTS PLC"
+    },
+    {
+        "ticker": "RBW",
+        "full_name": "RAINBOW RARE EARTHS LIMITED"
+    },
+    {
+        "ticker": "RFX",
+        "full_name": "RAMSDENS HOLDINGS PLC"
+    },
+    {
+        "ticker": "RNK",
+        "full_name": "RANK GROUP PLC"
+    },
+    {
+        "ticker": "RPI",
+        "full_name": "RASPBERRY PI HOLDINGS PLC"
+    },
+    {
+        "ticker": "RAT",
+        "full_name": "RATHBONES GROUP PLC"
+    },
+    {
+        "ticker": "RCGH",
+        "full_name": "RC365 HOLDING PLC"
+    },
+    {
+        "ticker": "RCFX",
+        "full_name": "RC FORNAX PLC"
+    },
+    {
+        "ticker": "RBD",
+        "full_name": "REABOLD RESOURCES PLC"
+    },
+    {
+        "ticker": "RCH",
+        "full_name": "REACH PLC"
+    },
+    {
+        "ticker": "REAT",
+        "full_name": "REACT GROUP PLC"
+    },
+    {
+        "ticker": "RE.",
+        "full_name": "R.E.A. HOLDINGS PLC"
+    },
+    {
+        "ticker": "RECI",
+        "full_name": "REAL ESTATE CREDIT INVESTMENTS LIMITED"
+    },
+    {
+        "ticker": "RLE",
+        "full_name": "REAL ESTATE INVESTORS PLC"
+    },
+    {
+        "ticker": "RKT",
+        "full_name": "RECKITT BENCKISER GROUP PLC"
+    },
+    {
+        "ticker": "REC",
+        "full_name": "RECORD PLC"
+    },
+    {
+        "ticker": "REDC",
+        "full_name": "RED CAPITAL PLC"
+    },
+    {
+        "ticker": "RCN",
+        "full_name": "REDCENTRIC PLC"
+    },
+    {
+        "ticker": "RRR",
+        "full_name": "RED ROCK RESOURCES PLC"
+    },
+    {
+        "ticker": "RGL",
+        "full_name": "REGIONAL REIT LIMITED"
+    },
+    {
+        "ticker": "REA",
+        "full_name": "REI AGRO LTD"
+    },
+    {
+        "ticker": "RIGD",
+        "full_name": "RELIANCE INDUSTRIES LIMITED"
+    },
+    {
+        "ticker": "REL",
+        "full_name": "RELX PLC"
+    },
+    {
+        "ticker": "RENX",
+        "full_name": "RENALYTIX PLC"
+    },
+    {
+        "ticker": "RNWH",
+        "full_name": "RENEW HOLDINGS PLC"
+    },
+    {
+        "ticker": "RSW",
+        "full_name": "RENISHAW PLC"
+    },
+    {
+        "ticker": "ID",
+        "full_name": "RENOLD PLC"
+    },
+    {
+        "ticker": "RTO",
+        "full_name": "RENTOKIL INITIAL PLC"
+    },
+    {
+        "ticker": "RESI",
+        "full_name": "RESIDENTIAL SECURE INCOME PLC"
+    },
+    {
+        "ticker": "RSG",
+        "full_name": "RESOLUTE MINING LIMITED"
+    },
+    {
+        "ticker": "RST",
+        "full_name": "RESTORE PLC"
+    },
+    {
+        "ticker": "REVB",
+        "full_name": "REVOLUTION BEAUTY GROUP PLC"
+    },
+    {
+        "ticker": "RHIM",
+        "full_name": "RHI MAGNESITA N.V."
+    },
+    {
+        "ticker": "RCDO",
+        "full_name": "RICARDO PLC"
+    },
+    {
+        "ticker": "RICO",
+        "full_name": "RICOH CO LTD"
+    },
+    {
+        "ticker": "RMV",
+        "full_name": "RIGHTMOVE PLC"
+    },
+    {
+        "ticker": "RIII",
+        "full_name": "RIGHTS & ISSUES INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "RIO",
+        "full_name": "RIO TINTO PLC"
+    },
+    {
+        "ticker": "RCP",
+        "full_name": "RIT CAPITAL PARTNERS PLC"
+    },
+    {
+        "ticker": "RVRB",
+        "full_name": "RIVER GLOBAL PLC"
+    },
+    {
+        "ticker": "RCOI",
+        "full_name": "RIVERSTONE CREDIT OPPORTUNITIES INCOME PLC"
+    },
+    {
+        "ticker": "RSE",
+        "full_name": "RIVERSTONE ENERGY LIMITED"
+    },
+    {
+        "ticker": "RMMC",
+        "full_name": "RIVER UK MICRO CAP LIMITED"
+    },
+    {
+        "ticker": "RMII",
+        "full_name": "RM INFRASTRUCTURE INCOME PLC"
+    },
+    {
+        "ticker": "RM.",
+        "full_name": "RM PLC"
+    },
+    {
+        "ticker": "ROAD",
+        "full_name": "ROADSIDE REAL ESTATE PLC"
+    },
+    {
+        "ticker": "DEG",
+        "full_name": "ROBECO UCITS ICAV"
+    },
+    {
+        "ticker": "RWA",
+        "full_name": "ROBERT WALTERS PLC"
+    },
+    {
+        "ticker": "RBN",
+        "full_name": "ROBINSON PLC"
+    },
+    {
+        "ticker": "ROCK",
+        "full_name": "ROCKFIRE RESOURCES PLC"
+    },
+    {
+        "ticker": "RKH",
+        "full_name": "ROCKHOPPER EXPLORATION PLC"
+    },
+    {
+        "ticker": "ROC",
+        "full_name": "ROCKPOOL ACQUISITIONS PLC"
+    },
+    {
+        "ticker": "RKW",
+        "full_name": "ROCKWOOD STRATEGIC PLC"
+    },
+    {
+        "ticker": "RFG",
+        "full_name": "ROEBUCK FOOD GROUP PUBLIC LIMITED COMPANY"
+    },
+    {
+        "ticker": "RR.",
+        "full_name": "ROLLS-ROYCE HOLDINGS PLC"
+    },
+    {
+        "ticker": "RMR",
+        "full_name": "ROME RESOURCES PLC"
+    },
+    {
+        "ticker": "ROQ",
+        "full_name": "ROQUEFORT THERAPEUTICS PLC"
+    },
+    {
+        "ticker": "ROSE",
+        "full_name": "ROSEBANK INDUSTRIES PLC"
+    },
+    {
+        "ticker": "RGP",
+        "full_name": "ROSS GROUP PLC"
+    },
+    {
+        "ticker": "RDT",
+        "full_name": "ROSSLYN DATA TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "ID",
+        "full_name": "ROTORK PLC"
+    },
+    {
+        "ticker": "RS1",
+        "full_name": "RS GROUP PLC"
+    },
+    {
+        "ticker": "RTC",
+        "full_name": "RTC GROUP PLC"
+    },
+    {
+        "ticker": "RTW",
+        "full_name": "RTW BIOTECH OPPORTUNITIES LTD"
+    },
+    {
+        "ticker": "RUA",
+        "full_name": "RUA LIFE SCIENCES PLC"
+    },
+    {
+        "ticker": "RICA",
+        "full_name": "RUFFER INVESTMENT COMPANY LTD"
+    },
+    {
+        "ticker": "RWS",
+        "full_name": "RWS HOLDINGS PLC"
+    },
+    {
+        "ticker": "SFOR",
+        "full_name": "S4 CAPITAL PLC"
+    },
+    {
+        "ticker": "SNT",
+        "full_name": "SABIEN TECHNOLOGY GROUP PLC"
+    },
+    {
+        "ticker": "SBRE",
+        "full_name": "SABRE INSURANCE GROUP PLC"
+    },
+    {
+        "ticker": "SSTY",
+        "full_name": "SAFESTAY PLC"
+    },
+    {
+        "ticker": "SAFE",
+        "full_name": "SAFESTORE HOLDINGS PLC"
+    },
+    {
+        "ticker": "SAGA",
+        "full_name": "SAGA PLC"
+    },
+    {
+        "ticker": "SBRY",
+        "full_name": "SAINSBURY (J) PLC"
+    },
+    {
+        "ticker": "BC94",
+        "full_name": "SAMSUNG ELECTRONICS CO LTD (ATT)"
+    },
+    {
+        "ticker": "LEND",
+        "full_name": "SANCUS LENDING GROUP LIMITED"
+    },
+    {
+        "ticker": "SDG",
+        "full_name": "SANDERSON DESIGN GROUP PLC"
+    },
+    {
+        "ticker": "SANB",
+        "full_name": "SANTANDER UK PLC"
+    },
+    {
+        "ticker": "SAR",
+        "full_name": "SAREUM HOLDINGS PLC"
+    },
+    {
+        "ticker": "SAVE",
+        "full_name": "SAVANNAH ENERGY PLC"
+    },
+    {
+        "ticker": "SAV",
+        "full_name": "SAVANNAH RESOURCES PLC"
+    },
+    {
+        "ticker": "SVS",
+        "full_name": "SAVILLS PLC"
+    },
+    {
+        "ticker": "SCLP",
+        "full_name": "SCANCELL HOLDINGS PLC"
+    },
+    {
+        "ticker": "ATR",
+        "full_name": "SCHRODER ASIAN TOTAL RETURN INVESTMENT COMPANY PLC"
+    },
+    {
+        "ticker": "SDP",
+        "full_name": "SCHRODER ASIAPACIFIC FUND PLC"
+    },
+    {
+        "ticker": "SBO",
+        "full_name": "SCHRODER BRITISH OPPORTUNITIES TRUST PLC"
+    },
+    {
+        "ticker": "SBSI",
+        "full_name": "SCHRODER BSC SOCIAL IMPACT TRUST PLC"
+    },
+    {
+        "ticker": "SERE",
+        "full_name": "SCHRODER EUROPEAN REAL ESTATE INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "SCF",
+        "full_name": "SCHRODER INCOME GROWTH FUND PLC"
+    },
+    {
+        "ticker": "SJG",
+        "full_name": "SCHRODER JAPAN TRUST PLC"
+    },
+    {
+        "ticker": "SOI",
+        "full_name": "SCHRODER ORIENTAL INCOME FUND LIMITED"
+    },
+    {
+        "ticker": "SREI",
+        "full_name": "SCHRODER REAL ESTATE INVESTMENT TRUST LIMITED"
+    },
+    {
+        "ticker": "INOV",
+        "full_name": "SCHRODERS CAPITAL GLOBAL INNOVATION TRUST PLC"
+    },
+    {
+        "ticker": "SDR",
+        "full_name": "SCHRODERS PLC"
+    },
+    {
+        "ticker": "SCP",
+        "full_name": "SCHRODER UK MID CAP FUND PLC"
+    },
+    {
+        "ticker": "SAG",
+        "full_name": "SCIENCE GROUP PLC"
+    },
+    {
+        "ticker": "SAIN",
+        "full_name": "SCOTTISH AMERICAN INVESTMENT CO. PLC"
+    },
+    {
+        "ticker": "SMT",
+        "full_name": "SCOTTISH MORTGAGE INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "SST",
+        "full_name": "SCOTTISH ORIENTAL SMALLER COMPANIES TRUST PLC"
+    },
+    {
+        "ticker": "SEIT",
+        "full_name": "SDCL EFFICIENCY INCOME TRUST PLC"
+    },
+    {
+        "ticker": "SDIC",
+        "full_name": "SDIC POWER HOLDINGS CO., LTD"
+    },
+    {
+        "ticker": "SDI",
+        "full_name": "SDI GROUP PLC"
+    },
+    {
+        "ticker": "SCGL",
+        "full_name": "SEALAND CAPITAL GALAXY LIMITED"
+    },
+    {
+        "ticker": "SEA",
+        "full_name": "SEASCAPE ENERGY ASIA PLC"
+    },
+    {
+        "ticker": "SPDI",
+        "full_name": "SECURE PROPERTY DEVELOPMENT & INVESTMENT PLC"
+    },
+    {
+        "ticker": "STB",
+        "full_name": "SECURE TRUST BANK PLC"
+    },
+    {
+        "ticker": "SCSP",
+        "full_name": "SEED CAPITAL SOLUTIONS PLC"
+    },
+    {
+        "ticker": "SEED",
+        "full_name": "SEED INNOVATIONS LIMITED"
+    },
+    {
+        "ticker": "SEEN",
+        "full_name": "SEEEN PLC"
+    },
+    {
+        "ticker": "SEE",
+        "full_name": "SEEING MACHINES LIMITED"
+    },
+    {
+        "ticker": "SGRO",
+        "full_name": "SEGRO PLC"
+    },
+    {
+        "ticker": "SELK",
+        "full_name": "SELKIRK GROUP PLC"
+    },
+    {
+        "ticker": "HYG",
+        "full_name": "SENECA GROWTH CAPITAL VCT PLC"
+    },
+    {
+        "ticker": "SNR",
+        "full_name": "SENIOR PLC"
+    },
+    {
+        "ticker": "SEPL",
+        "full_name": "SEPLAT ENERGY PLC"
+    },
+    {
+        "ticker": "SEQI",
+        "full_name": "SEQUOIA ECONOMIC INFRASTRUCTURE INCOME FUND LIMITED"
+    },
+    {
+        "ticker": "SRB",
+        "full_name": "SERABI GOLD PLC"
+    },
+    {
+        "ticker": "SSIT",
+        "full_name": "SERAPHIM SPACE INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "SRP",
+        "full_name": "SERCO GROUP PLC"
+    },
+    {
+        "ticker": "SQZ",
+        "full_name": "SERICA ENERGY PLC"
+    },
+    {
+        "ticker": "SFR",
+        "full_name": "SEVERFIELD PLC"
+    },
+    {
+        "ticker": "SVT",
+        "full_name": "SEVERN TRENT PLC"
+    },
+    {
+        "ticker": "SHC",
+        "full_name": "SHAFTESBURY CAPITAL PLC"
+    },
+    {
+        "ticker": "SWG",
+        "full_name": "SHEARWATER GROUP PLC"
+    },
+    {
+        "ticker": "SEFA",
+        "full_name": "SHEFA GEMS LTD"
+    },
+    {
+        "ticker": "SHEL",
+        "full_name": "SHELL PLC"
+    },
+    {
+        "ticker": "SIGC",
+        "full_name": "SHERBORNE INVESTORS (GUERNSEY) C LIMITED"
+    },
+    {
+        "ticker": "STX",
+        "full_name": "SHIELD THERAPEUTICS PLC"
+    },
+    {
+        "ticker": "SHRS",
+        "full_name": "SHIRES INCOME PLC"
+    },
+    {
+        "ticker": "SHOE",
+        "full_name": "SHOE ZONE PLC"
+    },
+    {
+        "ticker": "SKA",
+        "full_name": "SHUKA MINERALS PLC"
+    },
+    {
+        "ticker": "SRC",
+        "full_name": "SIGMAROC PLC"
+    },
+    {
+        "ticker": "SHI",
+        "full_name": "SIG PLC"
+    },
+    {
+        "ticker": "SBDS",
+        "full_name": "SILVER BULLET DATA SERVICES GROUP PLC"
+    },
+    {
+        "ticker": "SAE",
+        "full_name": "SIMEC ATLANTIS ENERGY LIMITED"
+    },
+    {
+        "ticker": "SRE",
+        "full_name": "SIRIUS REAL ESTATE LD"
+    },
+    {
+        "ticker": "SIV",
+        "full_name": "SIVOTA PLC"
+    },
+    {
+        "ticker": "SKL",
+        "full_name": "SKILLCAST GROUP PLC"
+    },
+    {
+        "ticker": "SBTX",
+        "full_name": "SKINBIOTHERAPEUTICS PLC"
+    },
+    {
+        "ticker": "SLNG",
+        "full_name": "SLINGSBY (H.C.) PLC"
+    },
+    {
+        "ticker": "SMJ",
+        "full_name": "SMART (J.) & CO. (CONTRACTORS) PLC"
+    },
+    {
+        "ticker": "S247",
+        "full_name": "SMARTTECH247 GROUP PLC"
+    },
+    {
+        "ticker": "SN.",
+        "full_name": "SMITH & NEPHEW PLC"
+    },
+    {
+        "ticker": "SMIN",
+        "full_name": "SMITHS GROUP PLC"
+    },
+    {
+        "ticker": "SNWS",
+        "full_name": "SMITHS NEWS PLC"
+    },
+    {
+        "ticker": "SSON",
+        "full_name": "SMITHSON INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "SWR",
+        "full_name": "SMURFIT WESTROCK PLC"
+    },
+    {
+        "ticker": "SOHO",
+        "full_name": "SOCIAL HOUSING REIT PLC"
+    },
+    {
+        "ticker": "FL",
+        "full_name": "SOCIETATEA ENERGETICA ELECTRICA SA"
+    },
+    {
+        "ticker": "SCT",
+        "full_name": "SOFTCAT PLC"
+    },
+    {
+        "ticker": "SFT",
+        "full_name": "SOFTWARE CIRCLE PLC"
+    },
+    {
+        "ticker": "SOLG",
+        "full_name": "SOLGOLD PLC"
+    },
+    {
+        "ticker": "SOLI",
+        "full_name": "SOLID STATE PLC"
+    },
+    {
+        "ticker": "SVNS",
+        "full_name": "SOLVONIS THERAPEUTICS PLC"
+    },
+    {
+        "ticker": "SOM",
+        "full_name": "SOMERO ENTERPRISE INC."
+    },
+    {
+        "ticker": "SORT",
+        "full_name": "SORTED GROUP HOLDINGS PLC"
+    },
+    {
+        "ticker": "SOS",
+        "full_name": "SOSANDAR PLC"
+    },
+    {
+        "ticker": "SOU",
+        "full_name": "SOUND ENERGY PLC"
+    },
+    {
+        "ticker": "S32",
+        "full_name": "SOUTH32 LIMITED"
+    },
+    {
+        "ticker": "SOUC",
+        "full_name": "SOUTHERN ENERGY CORP."
+    },
+    {
+        "ticker": "SVML",
+        "full_name": "SOVEREIGN METALS LIMITED"
+    },
+    {
+        "ticker": "SAL",
+        "full_name": "SPACEANDPEOPLE PLC"
+    },
+    {
+        "ticker": "SPSC",
+        "full_name": "SPECTRA SYSTEMS CORPORATION"
+    },
+    {
+        "ticker": "SXS",
+        "full_name": "SPECTRIS PLC"
+    },
+    {
+        "ticker": "SDY",
+        "full_name": "SPEEDY HIRE PLC"
+    },
+    {
+        "ticker": "SPX",
+        "full_name": "SPIRAX GROUP PLC"
+    },
+    {
+        "ticker": "SPI",
+        "full_name": "SPIRE HEALTHCARE GROUP PLC"
+    },
+    {
+        "ticker": "SPT",
+        "full_name": "SPIRENT COMMUNICATIONS PLC"
+    },
+    {
+        "ticker": "SPMU",
+        "full_name": "SPIRITUS MUNDI PLC"
+    },
+    {
+        "ticker": "SPR",
+        "full_name": "SPRINGFIELD PROPERTIES PLC"
+    },
+    {
+        "ticker": "SRT",
+        "full_name": "SRT MARINE SYSTEMS PLC"
+    },
+    {
+        "ticker": "SSE",
+        "full_name": "SSE PLC"
+    },
+    {
+        "ticker": "CDCE",
+        "full_name": "SSGA SPDR ETFS EUROPE II PLC"
+    },
+    {
+        "ticker": "X",
+        "full_name": "SSGA SPDR ETFS EUROPE I PLC"
+    },
+    {
+        "ticker": "SSPG",
+        "full_name": "SSP GROUP PLC"
+    },
+    {
+        "ticker": "STAF",
+        "full_name": "STAFFLINE GROUP PLC"
+    },
+    {
+        "ticker": "STAN",
+        "full_name": "STANDARD CHARTERED PLC"
+    },
+    {
+        "ticker": "STAR",
+        "full_name": "STAR ENERGY GROUP PLC"
+    },
+    {
+        "ticker": "SWEF",
+        "full_name": "STARWOOD EUROPEAN REAL ESTATE FINANCE LIMITED"
+    },
+    {
+        "ticker": "SBIA",
+        "full_name": "STATE BANK OF INDIA"
+    },
+    {
+        "ticker": "SRAD",
+        "full_name": "STELRAD GROUP PLC"
+    },
+    {
+        "ticker": "STCM",
+        "full_name": "STEPPE CEMENT LTD"
+    },
+    {
+        "ticker": "STEM",
+        "full_name": "STHREE PLC"
+    },
+    {
+        "ticker": "STJ",
+        "full_name": "ST. JAMES'S PLACE PLC"
+    },
+    {
+        "ticker": "SEC",
+        "full_name": "STRATEGIC EQUITY CAPITAL PLC"
+    },
+    {
+        "ticker": "SML",
+        "full_name": "STRATEGIC MINERALS PLC"
+    },
+    {
+        "ticker": "STG",
+        "full_name": "STRIP TINNING HOLDINGS PLC"
+    },
+    {
+        "ticker": "KETL",
+        "full_name": "STRIX GROUP PLC"
+    },
+    {
+        "ticker": "STS",
+        "full_name": "STS GLOBAL INCOME & GROWTH TRUST PLC"
+    },
+    {
+        "ticker": "STVG",
+        "full_name": "STV GROUP PLC"
+    },
+    {
+        "ticker": "SBAR",
+        "full_name": "SUNDAE BAR PLC"
+    },
+    {
+        "ticker": "SNDA",
+        "full_name": "SUNDA ENERGY PLC"
+    },
+    {
+        "ticker": "SRES",
+        "full_name": "SUNRISE RESOURCES PLC"
+    },
+    {
+        "ticker": "SUPR",
+        "full_name": "SUPERMARKET INCOME REIT PLC"
+    },
+    {
+        "ticker": "IE",
+        "full_name": "S & U PLC"
+    },
+    {
+        "ticker": "SYME",
+        "full_name": "SUPPLY@ME CAPITAL PLC"
+    },
+    {
+        "ticker": "SUP",
+        "full_name": "SUPREME PLC"
+    },
+    {
+        "ticker": "SURE",
+        "full_name": "SURE VENTURES PLC"
+    },
+    {
+        "ticker": "SCE",
+        "full_name": "SURFACE TRANSFORMS PLC"
+    },
+    {
+        "ticker": "SUN",
+        "full_name": "SURGICAL INNOVATIONS GROUP PLC"
+    },
+    {
+        "ticker": "SUH",
+        "full_name": "SUTTON HARBOUR GROUP PLC"
+    },
+    {
+        "ticker": "SWT",
+        "full_name": "SWITCH METALS PLC"
+    },
+    {
+        "ticker": "SLP",
+        "full_name": "SYLVANIA PLATINUM LIMITED"
+    },
+    {
+        "ticker": "SYM",
+        "full_name": "SYMPHONY ENVIRONMENTAL TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "SIHL",
+        "full_name": "SYMPHONY INTERNATIONAL HOLDINGS LD"
+    },
+    {
+        "ticker": "SYNC",
+        "full_name": "SYNCONA LIMITED"
+    },
+    {
+        "ticker": "SNX",
+        "full_name": "SYNECTICS PLC"
+    },
+    {
+        "ticker": "SYN",
+        "full_name": "SYNERGIA ENERGY LTD"
+    },
+    {
+        "ticker": "SYNT",
+        "full_name": "SYNTHOMER PLC"
+    },
+    {
+        "ticker": "SYS",
+        "full_name": "SYSGROUP PLC"
+    },
+    {
+        "ticker": "SYS1",
+        "full_name": "SYSTEM1 GROUP PLC"
+    },
+    {
+        "ticker": "TRAC",
+        "full_name": "T42 IOT TRACKING SOLUTIONS PLC"
+    },
+    {
+        "ticker": "JCPG",
+        "full_name": "TABULA ICAV"
+    },
+    {
+        "ticker": "TAND",
+        "full_name": "TAN DELTA SYSTEMS PLC"
+    },
+    {
+        "ticker": "TND",
+        "full_name": "TANDEM GROUP PLC"
+    },
+    {
+        "ticker": "TAN",
+        "full_name": "TANFIELD GROUP PLC"
+    },
+    {
+        "ticker": "TAO",
+        "full_name": "TAO ALPHA PLC"
+    },
+    {
+        "ticker": "TAP",
+        "full_name": "TAP GLOBAL GROUP PLC"
+    },
+    {
+        "ticker": "THRL",
+        "full_name": "TARGET HEALTHCARE REIT PLC"
+    },
+    {
+        "ticker": "TKO",
+        "full_name": "TASEKO MINES LIMITED"
+    },
+    {
+        "ticker": "TAST",
+        "full_name": "TASTY PLC"
+    },
+    {
+        "ticker": "TTST",
+        "full_name": "TATA STEEL LIMITED"
+    },
+    {
+        "ticker": "TATE",
+        "full_name": "TATE & LYLE PLC"
+    },
+    {
+        "ticker": "TAM",
+        "full_name": "TATTON ASSET MANAGEMENT PLC"
+    },
+    {
+        "ticker": "TAVI",
+        "full_name": "TAVISTOCK INVESTMENTS PLC"
+    },
+    {
+        "ticker": "TMI",
+        "full_name": "TAYLOR MARITIME LIMITED"
+    },
+    {
+        "ticker": "TW.",
+        "full_name": "TAYLOR WIMPEY PLC"
+    },
+    {
+        "ticker": "TBCG",
+        "full_name": "TBC BANK GROUP PLC"
+    },
+    {
+        "ticker": "TIG",
+        "full_name": "TEAM INTERNET GROUP PLC"
+    },
+    {
+        "ticker": "TEAM",
+        "full_name": "TEAM PLC"
+    },
+    {
+        "ticker": "TNE",
+        "full_name": "TECHNOLOGIES NEW ENERGY PLC"
+    },
+    {
+        "ticker": "TM1",
+        "full_name": "TECHNOLOGY MINERALS PLC"
+    },
+    {
+        "ticker": "TEK",
+        "full_name": "TEKCAPITAL PLC"
+    },
+    {
+        "ticker": "TGP",
+        "full_name": "TEKMAR GROUP PLC"
+    },
+    {
+        "ticker": "QX",
+        "full_name": "TELECOM EGYPT S.A.E."
+    },
+    {
+        "ticker": "TEP",
+        "full_name": "TELECOM PLUS PLC"
+    },
+    {
+        "ticker": "TMPL",
+        "full_name": "TEMPLE BAR INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "TEM",
+        "full_name": "TEMPLETON EMERGING MARKETS INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "TENG",
+        "full_name": "TEN LIFESTYLE GROUP PLC"
+    },
+    {
+        "ticker": "TERN",
+        "full_name": "TERN PLC"
+    },
+    {
+        "ticker": "TYM",
+        "full_name": "TERTIARY MINERALS PLC"
+    },
+    {
+        "ticker": "TSCO",
+        "full_name": "TESCO PLC"
+    },
+    {
+        "ticker": "TFG",
+        "full_name": "TETRAGON FINANCIAL GROUP LIMITED"
+    },
+    {
+        "ticker": "THAL",
+        "full_name": "THALASSA HOLDINGS LIMITED"
+    },
+    {
+        "ticker": "THS",
+        "full_name": "THARISA PLC"
+    },
+    {
+        "ticker": "ART",
+        "full_name": "THE ARTISANAL SPIRITS COMPANY PLC"
+    },
+    {
+        "ticker": "CCT",
+        "full_name": "THE CHARACTER GROUP PLC"
+    },
+    {
+        "ticker": "BC",
+        "full_name": "THE COMMERCIAL BANK OF QATAR (Q.S.C.)"
+    },
+    {
+        "ticker": "ESCT",
+        "full_name": "THE EUROPEAN SMALLER COMPANIES TRUST PLC"
+    },
+    {
+        "ticker": "GSCT",
+        "full_name": "THE GLOBAL SMALLER COMPANIES TRUST PLC"
+    },
+    {
+        "ticker": "GYM",
+        "full_name": "THE GYM GROUP PLC"
+    },
+    {
+        "ticker": "TMG",
+        "full_name": "THE MISSION GROUP PLC"
+    },
+    {
+        "ticker": "PEBB",
+        "full_name": "THE PEBBLE GROUP PLC"
+    },
+    {
+        "ticker": "TCF",
+        "full_name": "THERACRYF PLC"
+    },
+    {
+        "ticker": "TRIG",
+        "full_name": "THE RENEWABLES INFRASTRUCTURE GROUP LIMITED"
+    },
+    {
+        "ticker": "TRC",
+        "full_name": "THE REVEL COLLECTIVE PLC"
+    },
+    {
+        "ticker": "SGE",
+        "full_name": "THE SAGE GROUP PLC"
+    },
+    {
+        "ticker": "MNTN",
+        "full_name": "THE SCHIEHALLION FUND LIMITED"
+    },
+    {
+        "ticker": "WRKS",
+        "full_name": "THEWORKS.CO.UK PLC"
+    },
+    {
+        "ticker": "THG",
+        "full_name": "THG PLC"
+    },
+    {
+        "ticker": "TPOS",
+        "full_name": "THIRD POINT INVESTORS LIMITED"
+    },
+    {
+        "ticker": "THR",
+        "full_name": "THOR ENERGY PLC"
+    },
+    {
+        "ticker": "THX",
+        "full_name": "THOR EXPLORATIONS LTD"
+    },
+    {
+        "ticker": "TFW",
+        "full_name": "THORPE (F.W.) PLC"
+    },
+    {
+        "ticker": "THRU",
+        "full_name": "THRUVISION GROUP PLC"
+    },
+    {
+        "ticker": "TGA",
+        "full_name": "THUNGELA RESOURCES LIMITED"
+    },
+    {
+        "ticker": "TIA",
+        "full_name": "TIALIS ESSENTIAL IT PLC"
+    },
+    {
+        "ticker": "TIR",
+        "full_name": "TIGER ROYALTIES AND INVESTMENTS PLC"
+    },
+    {
+        "ticker": "TIME",
+        "full_name": "TIME FINANCE PLC"
+    },
+    {
+        "ticker": "TMO",
+        "full_name": "TIME OUT GROUP PLC"
+    },
+    {
+        "ticker": "TBLD",
+        "full_name": "TINYBUILD INC."
+    },
+    {
+        "ticker": "TGR",
+        "full_name": "TIRUPATI GRAPHITE PLC"
+    },
+    {
+        "ticker": "TRX",
+        "full_name": "TISSUE REGENIX GROUP PLC"
+    },
+    {
+        "ticker": "TON",
+        "full_name": "TITON HOLDINGS PLC"
+    },
+    {
+        "ticker": "TMT",
+        "full_name": "TMT INVESTMENTS PLC"
+    },
+    {
+        "ticker": "TOM",
+        "full_name": "TOMCO ENERGY PLC"
+    },
+    {
+        "ticker": "TOO",
+        "full_name": "TOORU PLC"
+    },
+    {
+        "ticker": "TPT",
+        "full_name": "TOPPS TILES PLC"
+    },
+    {
+        "ticker": "MEX",
+        "full_name": "TORTILLA MEXICAN GRILL PLC"
+    },
+    {
+        "ticker": "TTE",
+        "full_name": "TOTALENERGIES SE"
+    },
+    {
+        "ticker": "TLY",
+        "full_name": "TOTALLY PLC"
+    },
+    {
+        "ticker": "TST",
+        "full_name": "TOUCHSTAR PLC"
+    },
+    {
+        "ticker": "TXP",
+        "full_name": "TOUCHSTONE EXPLORATION INC"
+    },
+    {
+        "ticker": "TRP",
+        "full_name": "TOWER RESOURCES PLC"
+    },
+    {
+        "ticker": "TOWN",
+        "full_name": "TOWN CENTRE SECURITIES PLC"
+    },
+    {
+        "ticker": "TYT",
+        "full_name": "TOYOTA MOTOR CORPORATION"
+    },
+    {
+        "ticker": "TCAP",
+        "full_name": "TP ICAP GROUP PLC"
+    },
+    {
+        "ticker": "TPX",
+        "full_name": "TPXIMPACT HOLDINGS PLC"
+    },
+    {
+        "ticker": "TRCS",
+        "full_name": "TRACSIS PLC"
+    },
+    {
+        "ticker": "TRAF",
+        "full_name": "TRAFALGAR PROPERTY GROUP PLC"
+    },
+    {
+        "ticker": "TRN",
+        "full_name": "TRAINLINE PLC"
+    },
+    {
+        "ticker": "TRAK",
+        "full_name": "TRAKM8 HOLDINGS PLC"
+    },
+    {
+        "ticker": "TRT",
+        "full_name": "TRANSENSE TECHNOLOGIES PLC"
+    },
+    {
+        "ticker": "TPK",
+        "full_name": "TRAVIS PERKINS PLC"
+    },
+    {
+        "ticker": "TET",
+        "full_name": "TREATT PLC"
+    },
+    {
+        "ticker": "TRLS",
+        "full_name": "TRELLUS HEALTH PLC"
+    },
+    {
+        "ticker": "TRD",
+        "full_name": "TRIAD GROUP PLC"
+    },
+    {
+        "ticker": "TRB",
+        "full_name": "TRIBAL GROUP PLC"
+    },
+    {
+        "ticker": "TRI",
+        "full_name": "TRIFAST PLC"
+    },
+    {
+        "ticker": "TPV",
+        "full_name": "TRIPLE POINT VENTURE VCT PLC"
+    },
+    {
+        "ticker": "TSTL",
+        "full_name": "TRISTEL PLC"
+    },
+    {
+        "ticker": "BBOX",
+        "full_name": "TRITAX BIG BOX REIT PLC"
+    },
+    {
+        "ticker": "TRY",
+        "full_name": "TR PROPERTY INVESTMENT TRUST PLC"
+    },
+    {
+        "ticker": "TRU",
+        "full_name": "TRUFIN PLC"
+    },
+    {
+        "ticker": "TRST",
+        "full_name": "TRUSTPILOT GROUP PLC"
+    },
+    {
+        "ticker": "TTG",
+        "full_name": "TT ELECTRONICS PLC"
+    },
+    {
+        "ticker": "SHIP",
+        "full_name": "TUFTON ASSETS LIMITED"
+    },
+    {
+        "ticker": "TLW",
+        "full_name": "TULLOW OIL PLC"
+    },
+    {
+        "ticker": "TUN",
+        "full_name": "TUNGSTEN WEST PLC"
+    },
+    {
+        "ticker": "LM",
+        "full_name": "TURKIYE IS BANKASI A.S."
+    },
+    {
+        "ticker": "TFIF",
+        "full_name": "TWENTYFOUR INCOME FUND LIMITED"
+    },
+    {
+        "ticker": "SMIF",
+        "full_name": "TWENTYFOUR SELECT MONTHLY INCOME FUND LIMITED"
+    },
+    {
+        "ticker": "ESG",
+        "full_name": "UBS (IRL) ETF PLC"
+    },
+    {
+        "ticker": "BCCU",
+        "full_name": "UBS (IRL) FUND SOLUTIONS PLC"
+    },
+    {
+        "ticker": "BSUS",
+        "full_name": "UBS (LUX) FUND SOLUTIONS"
+    },
+    {
+        "ticker": "UTLH",
+        "full_name": "UIL FINANCE LIMITED"
+    },
+    {
+        "ticker": "UTL",
+        "full_name": "UIL LIMITED"
+    },
+    {
+        "ticker": "UKOG",
+        "full_name": "UK OIL & GAS PLC"
+    },
+    {
+        "ticker": "UKR",
+        "full_name": "UKRPRODUCT GROUP LIMITED"
+    },
+    {
+        "ticker": "ULTP",
+        "full_name": "ULTIMATE PRODUCTS PLC"
+    },
+    {
+        "ticker": "UAV",
+        "full_name": "UNICORN AIM VCT PLC"
+    },
+    {
+        "ticker": "UMR",
+        "full_name": "UNICORN MINERAL RESOURCES PLC"
+    },
+    {
+        "ticker": "ULVR",
+        "full_name": "UNILEVER PLC"
+    },
+    {
+        "ticker": "UJO",
+        "full_name": "UNION JACK OIL PLC"
+    },
+    {
+        "ticker": "UPR",
+        "full_name": "UNIPHAR PLC"
+    },
+    {
+        "ticker": "UBLA",
+        "full_name": "UNITED BANK LIMITED"
+    },
+    {
+        "ticker": "UOG",
+        "full_name": "UNITED OIL & GAS PLC"
+    },
+    {
+        "ticker": "UU.",
+        "full_name": "UNITED UTILITIES GROUP PLC"
+    },
+    {
+        "ticker": "UTG",
+        "full_name": "UNITE GROUP PLC"
+    },
+    {
+        "ticker": "UPL",
+        "full_name": "UPLAND RESOURCES LIMITED"
+    },
+    {
+        "ticker": "UPLL",
+        "full_name": "UPL LIMITED"
+    },
+    {
+        "ticker": "URU",
+        "full_name": "URU METALS LIMITED"
+    },
+    {
+        "ticker": "USF",
+        "full_name": "US SOLAR FUND PLC"
+    },
+    {
+        "ticker": "UEM",
+        "full_name": "UTILICO EMERGING MARKETS TRUST PLC"
+    },
+    {
+        "ticker": "EGY",
+        "full_name": "VAALCO ENERGY, INC."
+    },
+    {
+        "ticker": "VAL",
+        "full_name": "VALIRX PLC"
+    },
+    {
+        "ticker": "VALT",
+        "full_name": "VALTERRA PLATINUM LIMITED"
+    },
+    {
+        "ticker": "VIP",
+        "full_name": "VALUE AND INDEXED PROPERTY INCOME TRUST PLC"
+    },
+    {
+        "ticker": "TDGB",
+        "full_name": "VANECK ETFS N.V."
+    },
+    {
+        "ticker": "ANGB",
+        "full_name": "VANECK UCITS ETFS PLC"
+    },
+    {
+        "ticker": "VANL",
+        "full_name": "VAN ELLE HOLDINGS PLC"
+    },
+    {
+        "ticker": "V3AA",
+        "full_name": "VANGUARD FUNDS PLC"
+    },
+    {
+        "ticker": "VANQ",
+        "full_name": "VANQUIS BANKING GROUP PLC"
+    },
+    {
+        "ticker": "VARE",
+        "full_name": "VARIOUS EATERIES PLC"
+    },
+    {
+        "ticker": "VAST",
+        "full_name": "VAST RESOURCES PLC"
+    },
+    {
+        "ticker": "VEL",
+        "full_name": "VELOCITY COMPOSITES PLC"
+    },
+    {
+        "ticker": "VLG",
+        "full_name": "VENTURE LIFE GROUP PLC"
+    },
+    {
+        "ticker": "VRCI",
+        "full_name": "VERICI DX PLC"
+    },
+    {
+        "ticker": "VRS",
+        "full_name": "VERSARIEN PLC"
+    },
+    {
+        "ticker": "VTU",
+        "full_name": "VERTU MOTORS PLC"
+    },
+    {
+        "ticker": "VSVS",
+        "full_name": "VESUVIUS PLC"
+    },
+    {
+        "ticker": "ENRG",
+        "full_name": "VH GLOBAL ENERGY INFRASTRUCTURE PLC"
+    },
+    {
+        "ticker": "VNET",
+        "full_name": "VIANET GROUP PLC"
+    },
+    {
+        "ticker": "VIC",
+        "full_name": "VICTORIAN PLUMBING GROUP PLC"
+    },
+    {
+        "ticker": "VCP",
+        "full_name": "VICTORIA PLC"
+    },
+    {
+        "ticker": "VCT",
+        "full_name": "VICTREX PLC"
+    },
+    {
+        "ticker": "VID",
+        "full_name": "VIDENDUM PLC"
+    },
+    {
+        "ticker": "VEID",
+        "full_name": "VIETNAM ENTERPRISE INVESTMENTS LIMITED"
+    },
+    {
+        "ticker": "VNH",
+        "full_name": "VIETNAM HOLDING LIMITED"
+    },
+    {
+        "ticker": "VOF",
+        "full_name": "VINACAPITAL VIETNAM OPPORTUNITY FUND LD"
+    },
+    {
+        "ticker": "BTC",
+        "full_name": "VINANZ LIMITED"
+    },
+    {
+        "ticker": "VINO",
+        "full_name": "VIRGIN WINES UK PLC"
+    },
+    {
+        "ticker": "VTY",
+        "full_name": "VISTRY GROUP PLC"
+    },
+    {
+        "ticker": "VOD",
+        "full_name": "VODAFONE GROUP PLC"
+    },
+    {
+        "ticker": "VLX",
+        "full_name": "VOLEX PLC"
+    },
+    {
+        "ticker": "VTA",
+        "full_name": "VOLTA FINANCE LIMITED"
+    },
+    {
+        "ticker": "FAN",
+        "full_name": "VOLUTION GROUP PLC"
+    },
+    {
+        "ticker": "VLE",
+        "full_name": "VOLVERE PLC"
+    },
+    {
+        "ticker": "VOX",
+        "full_name": "VOX VALOR CAPITAL LIMITED"
+    },
+    {
+        "ticker": "VSL",
+        "full_name": "VPC SPECIALTY LENDING INVESTMENTS PLC"
+    },
+    {
+        "ticker": "VP.",
+        "full_name": "VP PLC"
+    },
+    {
+        "ticker": "WPS",
+        "full_name": "W.A.G PAYMENT SOLUTIONS PLC"
+    },
+    {
+        "ticker": "WCW",
+        "full_name": "WALKER CRIPS GROUP PLC"
+    },
+    {
+        "ticker": "WHR",
+        "full_name": "WAREHOUSE REIT PLC"
+    },
+    {
+        "ticker": "W7L",
+        "full_name": "WARPAINT LONDON PLC"
+    },
+    {
+        "ticker": "WOSG",
+        "full_name": "WATCHES OF SWITZERLAND GROUP PLC"
+    },
+    {
+        "ticker": "WATR",
+        "full_name": "WATER INTELLIGENCE PLC"
+    },
+    {
+        "ticker": "WJG",
+        "full_name": "WATKIN JONES PLC"
+    },
+    {
+        "ticker": "FLPE",
+        "full_name": "WAYSTONE ETF ICAV"
+    },
+    {
+        "ticker": "WEIR",
+        "full_name": "WEIR GROUP PLC"
+    },
+    {
+        "ticker": "WKOF",
+        "full_name": "WEISS KOREA OPPORTUNITY FUND LTD."
+    },
+    {
+        "ticker": "WNX",
+        "full_name": "WELLNEX LIFE LIMITED"
+    },
+    {
+        "ticker": "WSG",
+        "full_name": "WESTMINSTER GROUP PLC"
+    },
+    {
+        "ticker": "WTE",
+        "full_name": "WESTMOUNT ENERGY LIMITED"
+    },
+    {
+        "ticker": "JDW",
+        "full_name": "WETHERSPOON ( J.D.) PLC"
+    },
+    {
+        "ticker": "WPM",
+        "full_name": "WHEATON PRECIOUS METALS CORP."
+    },
+    {
+        "ticker": "WHI",
+        "full_name": "W.H. IRELAND GROUP PLC"
+    },
+    {
+        "ticker": "WTB",
+        "full_name": "WHITBREAD PLC"
+    },
+    {
+        "ticker": "SMWH",
+        "full_name": "WH SMITH PLC"
+    },
+    {
+        "ticker": "WIX",
+        "full_name": "WICKES GROUP PLC"
+    },
+    {
+        "ticker": "WCAT",
+        "full_name": "WILDCAT PETROLEUM PLC"
+    },
+    {
+        "ticker": "WIL",
+        "full_name": "WILMINGTON PLC"
+    },
+    {
+        "ticker": "WPHO",
+        "full_name": "WINDAR PHOTONICS PLC"
+    },
+    {
+        "ticker": "WKS",
+        "full_name": "WINKING STUDIOS LIMITED"
+    },
+    {
+        "ticker": "WML",
+        "full_name": "WISDOM MARINE LINES CO., LIMITED"
+    },
+    {
+        "ticker": "BKCN",
+        "full_name": "WISDOMTREE ISSUER ICAV"
+    },
+    {
+        "ticker": "WISE",
+        "full_name": "WISE PLC"
+    },
+    {
+        "ticker": "WSBN",
+        "full_name": "WISHBONE GOLD PLC"
+    },
+    {
+        "ticker": "WIZZ",
+        "full_name": "WIZZ AIR HOLDINGS PLC"
+    },
+    {
+        "ticker": "WFR",
+        "full_name": "WOLFRAM RESOURCES PLC"
+    },
+    {
+        "ticker": "WBI",
+        "full_name": "WOODBOIS LIMITED"
+    },
+    {
+        "ticker": "WG.",
+        "full_name": "WOOD GROUP (JOHN) PLC"
+    },
+    {
+        "ticker": "WKP",
+        "full_name": "WORKSPACE GROUP PLC"
+    },
+    {
+        "ticker": "CHSS",
+        "full_name": "WORLD CHESS PLC"
+    },
+    {
+        "ticker": "WGP",
+        "full_name": "WORLDLINK GROUP PLC"
+    },
+    {
+        "ticker": "WSL",
+        "full_name": "WORLDSEC LD"
+    },
+    {
+        "ticker": "WWH",
+        "full_name": "WORLDWIDE HEALTHCARE TRUST PLC"
+    },
+    {
+        "ticker": "WINV",
+        "full_name": "WORSLEY INVESTORS LIMITED"
+    },
+    {
+        "ticker": "WRN",
+        "full_name": "WORTHINGTON GROUP PLC"
+    },
+    {
+        "ticker": "WPP",
+        "full_name": "WPP PLC"
+    },
+    {
+        "ticker": "WYN",
+        "full_name": "WYNNSTAY GROUP PLC"
+    },
+    {
+        "ticker": "WSP",
+        "full_name": "WYNNSTAY PROPERTIES PLC"
+    },
+    {
+        "ticker": "XAR",
+        "full_name": "XAAR PLC"
+    },
+    {
+        "ticker": "XSG",
+        "full_name": "XEROS TECHNOLOGY GROUP PLC"
+    },
+    {
+        "ticker": "XPF",
+        "full_name": "XP FACTORY PLC"
+    },
+    {
+        "ticker": "XPP",
+        "full_name": "XP POWER LIMITED"
+    },
+    {
+        "ticker": "XPS",
+        "full_name": "XPS PENSIONS GROUP PLC"
+    },
+    {
+        "ticker": "AH50",
+        "full_name": "XTRACKERS"
+    },
+    {
+        "ticker": "EXU1",
+        "full_name": "XTRACKERS (IE) PUBLIC LIMITED COMPANY"
+    },
+    {
+        "ticker": "CGB",
+        "full_name": "XTRACKERS II"
+    },
+    {
+        "ticker": "XTR",
+        "full_name": "XTRACT RESOURCES PLC"
+    },
+    {
+        "ticker": "YCA",
+        "full_name": "YELLOW CAKE PLC"
+    },
+    {
+        "ticker": "YOU",
+        "full_name": "YOUGOV PLC"
+    },
+    {
+        "ticker": "YNGA",
+        "full_name": "YOUNG & CO'S BREWERY PLC"
+    },
+    {
+        "ticker": "YU.",
+        "full_name": "YU GROUP PLC"
+    },
+    {
+        "ticker": "ZAM",
+        "full_name": "ZAMBEEF PRODUCTS PLC"
+    },
+    {
+        "ticker": "ZIOC",
+        "full_name": "ZANAGA IRON ORE COMPANY LIMITED"
+    },
+    {
+        "ticker": "ZCC",
+        "full_name": "ZCCM INVESTMENTS HOLDINGS PLC"
+    },
+    {
+        "ticker": "ZEG",
+        "full_name": "ZEGONA COMMUNICATIONS PLC"
+    },
+    {
+        "ticker": "ZENB",
+        "full_name": "ZENITH BANK PLC"
+    },
+    {
+        "ticker": "ZEN",
+        "full_name": "ZENITH ENERGY LTD."
+    },
+    {
+        "ticker": "ZED",
+        "full_name": "ZENOVA GROUP PLC"
+    },
+    {
+        "ticker": "ZPHR",
+        "full_name": "ZEPHYR ENERGY PLC"
+    },
+    {
+        "ticker": "YTT",
+        "full_name": "ZHEJIANG YONGTAI TECHNOLOGY CO., LTD."
+    },
+    {
+        "ticker": "GX",
+        "full_name": "ZIGUP PLC"
+    },
+    {
+        "ticker": "ZIN",
+        "full_name": "ZINC MEDIA GROUP PLC"
+    },
+    {
+        "ticker": "ZNWD",
+        "full_name": "ZINNWALD LITHIUM PLC"
+    },
+    {
+        "ticker": "ZOO",
+        "full_name": "ZOO DIGITAL GROUP PLC"
+    },
+    {
+        "ticker": "ZTF",
+        "full_name": "ZOTEFOAMS PLC"
+    }
+]
