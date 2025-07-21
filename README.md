@@ -16,7 +16,7 @@ A FastAPI-based web service for extracting stock ticker mentions from Reddit's r
 
 ### 1. Clone the repository
 ```powershell
-git clone <repo-url>
+git clone https://github.com/DarrenDV/wsb-sentiment-api.git
 cd wsb-sentiment-api
 ```
 
