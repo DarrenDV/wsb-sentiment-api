@@ -1,8 +1,11 @@
-import asyncpraw
 from fastapi import FastAPI
+from dotenv import load_dotenv
+import asyncpraw
 import re
 import os
 import json
+
+load_dotenv()
 
 TICKERS_JSON_PATH = os.path.join(os.path.dirname(__file__), 'tickers.json')
 BLACKLIST_PATH = os.path.join(os.path.dirname(__file__), 'blacklist.txt')
@@ -35,7 +38,25 @@ app = FastAPI()
 async def read_root():
     return {"message": "Welcome to the Reddit PRAW API"}
 
-@app.get("/getwsbposts")
+@app.get("/health")
+async def health_check():
+    return {"status": "ok"}
+
+@app.get("/tickers")
+async def get_tickers():
+    """
+    Returns a list of valid stock tickers.
+    """
+    return {"tickers": list(_VALID_TICKERS_CACHE)}
+
+@app.get("/blacklist")
+async def get_blacklist():
+    """
+    Returns a list of blacklisted stock tickers.
+    """
+    return {"blacklist": list(_BLACKLIST_TICKERS)}
+
+@app.get("/get-wsb-posts")
 async def get_wsb_posts():
     subreddit = await reddit.subreddit("wallstreetbets")
     posts = []
@@ -53,9 +74,10 @@ async def get_wsb_posts():
             "tickers": tickers,
             "permalink": submission.permalink,
         })
+
     return {"posts": posts}
 
-@app.get("/getwsbcomments")
+@app.get("/get-wsb-comments")
 async def get_wsb_comments():
     subreddit = await reddit.subreddit("wallstreetbets")
     comments = []
@@ -76,7 +98,7 @@ async def get_wsb_comments():
         })
     return {"comments": comments}
 
-@app.get("/checkstringfortickers")
+@app.get("/check-string-for-tickers")
 def check_string_for_tickers(body: str):
     """
     Check the provided string for stock tickers.

@@ -8,3 +8,7 @@ DD
 FOR
 LIKE
 A
+SEC
+XD
+NICE
+L
