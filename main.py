@@ -67,6 +67,7 @@ async def get_wsb_posts():
 
         posts.append({
             "title": submission.title,
+            "author": str(submission.author),
             "url": submission.url,
             "score": submission.score,
             "created_utc": submission.created_utc,
