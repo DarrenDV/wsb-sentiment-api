@@ -35,13 +35,13 @@ USER_AGENT=your_user_agent
 
 ### 4. Run the API
 ```powershell
-uvicorn main:app --host 0.0.0.0 --port 8000
+uvicorn main:app --host 0.0.0.0 --port 8038
 ```
 
 Or use Docker:
 ```powershell
 docker build -t wsb-sentiment-api .
-docker run -p 8000:8000 --env-file .env wsb-sentiment-api
+docker run -p 8038:8038 --env-file .env wsb-sentiment-api
 ```
 
 ## API Endpoints
